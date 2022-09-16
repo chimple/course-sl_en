@@ -1,0 +1,104 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "1",
+      "Description",
+      "Half/pizza",
+      "Full",
+      "half_pizza.png",
+      "half_pizza.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "1",
+      "Description",
+      "Whole/apple",
+      "Half",
+      "apple.png",
+      "whole_apple.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "1",
+      "Description",
+      "The/glass/is/half/full",
+      "quarter",
+      "half_full_glass.png",
+      "The_glass_is_half_full.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "1",
+      "Description",
+      "The/bottle/is/empty",
+      "half-full",
+      "empty_bottle.png",
+      "The_bottle_is_empty.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "1",
+      "Description",
+      "Quarter/pizza",
+      "Half",
+      "Quarter_pizza.png",
+      "quarter_pizza.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "1",
+      "Description",
+      "image_sentence",
+      "The glass is half full",
+      "The glass is full",
+      "The glass is empty",
+      "The glass is half full",
+      "half_full_glass.png",
+      "",
+      "The_glass_is_half_full.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "1",
+      "Description",
+      "image_sentence",
+      "Half pizza",
+      "Half pizza",
+      "Full pizza",
+      "Quarter pizza",
+      "half_pizza.png",
+      "",
+      "half_pizza.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "1",
+      "Description",
+      "image_sentence",
+      "Whole apple",
+      "Half apple",
+      "Whole apple",
+      "Quarter apple",
+      "apple.png",
+      "",
+      "whole_apple.mp3"
+    ]
+  ]
+}
