@@ -1,18 +1,7 @@
 {
   "rows": [
     [
-      "grid",
-      "1",
-      "Description",
-      "1",
-      "Description",
-      "ch",
-      "ain,air,art"
-    ],
-    [
       "phonictractor",
-      "1",
-      "Description",
       "1",
       "Description",
       "4",
@@ -22,27 +11,7 @@
       "ch.mp3"
     ],
     [
-      "grid",
-      "1",
-      "Description",
-      "1",
-      "Description",
-      "ch,sh,h",
-      "ip,ut,op"
-    ],
-    [
-      "grid",
-      "1",
-      "Description",
-      "1",
-      "Description",
-      "m,d,ch",
-      "ad,ug,op"
-    ],
-    [
       "phonictractor",
-      "1",
-      "Description",
       "1",
       "Description",
       "4",
@@ -59,8 +28,6 @@
       "phonictractor",
       "1",
       "Description",
-      "1",
-      "Description",
       "4",
       "chat",
       "chat.mp3",
@@ -75,8 +42,6 @@
       "phonictractor",
       "1",
       "Description",
-      "1",
-      "Description",
       "4",
       "chin",
       "chin.mp3",
@@ -88,9 +53,42 @@
       "n.mp3"
     ],
     [
-      "quizliteracy",
+      "grid",
       "1",
       "Description",
+      "ch",
+      "ain,air,art"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch",
+      "ew,ild,eck"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch",
+      "ase,alk,ant"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch,sh,h",
+      "ip,op"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch,m,d",
+      "ad,ug,op"
+    ],
+    [
+      "quizliteracy",
       "1",
       "Description",
       "word_word",
@@ -106,8 +104,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
       "chin",
       "nose",
@@ -119,8 +115,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "soundonly_word",

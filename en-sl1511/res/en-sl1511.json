@@ -1,9 +1,21 @@
 {
   "rows": [
     [
-      "phonictractor",
+      "grid",
       "1",
       "Description",
+      "cr",
+      "ab,op,ib"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "cr",
+      "ane,ew,oss"
+    ],
+    [
+      "phonictractor",
       "1",
       "Description",
       "5",
@@ -20,8 +32,6 @@
       "phonictractor",
       "1",
       "Description",
-      "1",
-      "Description",
       "5",
       "crib",
       "crib.mp3",
@@ -36,6 +46,16 @@
       "rocket",
       "1",
       "Description",
+      "cross",
+      "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
+      "c,r,o,s",
+      "cross.mp3",
+      "cross.png",
+      "true",
+      "false"
+    ],
+    [
+      "rocket",
       "1",
       "Description",
       "cross",
@@ -43,17 +63,15 @@
       "c,r,o,s,s",
       "cross.mp3",
       "cross.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "speakingpet",
       "1",
       "Description",
-      "1",
-      "Description",
       "ck.mp3",
-      "i.mp3",
+      "eng_i.mp3",
       "kick",
       "kick.mp3",
       "A",
@@ -73,8 +91,6 @@
     ],
     [
       "speakingpet",
-      "1",
-      "Description",
       "1",
       "Description",
       "cr.mp3",
@@ -100,8 +116,6 @@
       "speakingpet",
       "1",
       "Description",
-      "1",
-      "Description",
       "dr.mp3",
       "cr.mp3",
       "dress",
@@ -125,8 +139,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
       "crab",
       "duck",
@@ -140,8 +152,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
       "cream",
       "crown",
@@ -153,8 +163,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "image_word",

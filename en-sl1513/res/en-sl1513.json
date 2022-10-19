@@ -4,6 +4,18 @@
       "grid",
       "1",
       "Description",
+      "b,f,t",
+      "oil"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "c,j,l",
+      "oin"
+    ],
+    [
+      "grid",
       "1",
       "Description",
       "h,s,b",
@@ -11,8 +23,6 @@
     ],
     [
       "phonictractor",
-      "1",
-      "Description",
       "1",
       "Description",
       "5",
@@ -29,8 +39,6 @@
       "phonictractor",
       "1",
       "Description",
-      "1",
-      "Description",
       "5",
       "soil",
       "soil.mp3",
@@ -43,8 +51,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "soundonly_word",
@@ -60,8 +66,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
       "soil",
       "hole",
@@ -73,8 +77,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "word_word",
