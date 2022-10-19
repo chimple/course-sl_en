@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "66644644-cc92-4f31-84bd-0876ddd82aeb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 5334,
+  "height": 4000,
+  "platformSettings": {},
+  "subMetas": {
+    "Itisa_stronglion": {
+      "ver": "1.0.6",
+      "uuid": "715ee492-e9de-48ee-95dc-2d81475a5fe3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "66644644-cc92-4f31-84bd-0876ddd82aeb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 5334,
+      "height": 4000,
+      "rawWidth": 5334,
+      "rawHeight": 4000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

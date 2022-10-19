@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "53c6ff9a-29b5-472c-85b7-8f699a3601e0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 680,
+  "height": 620,
+  "platformSettings": {},
+  "subMetas": {
+    "the_girl_has_a_purple_dress": {
+      "ver": "1.0.6",
+      "uuid": "97b17994-41a8-4c76-9983-1f82835aab12",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "53c6ff9a-29b5-472c-85b7-8f699a3601e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 680,
+      "height": 620,
+      "rawWidth": 680,
+      "rawHeight": 620,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

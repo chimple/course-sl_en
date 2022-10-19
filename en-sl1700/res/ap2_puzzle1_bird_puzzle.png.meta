@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9bf5dbd7-3813-448c-90bf-0c7fb4234a3b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 382,
+  "height": 330,
+  "platformSettings": {},
+  "subMetas": {
+    "ap2_puzzle1_bird_puzzle": {
+      "ver": "1.0.6",
+      "uuid": "3ed176bf-b09d-44db-9c28-0a6b47e79329",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9bf5dbd7-3813-448c-90bf-0c7fb4234a3b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 4.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 379,
+      "height": 317,
+      "rawWidth": 382,
+      "rawHeight": 330,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

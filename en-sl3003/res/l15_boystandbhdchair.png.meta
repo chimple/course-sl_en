@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b46c8a2b-5fec-4458-afd9-f00c244a9bfd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l15_boystandbhdchair": {
+      "ver": "1.0.6",
+      "uuid": "4060be52-96d0-4821-9139-c2e53884d806",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b46c8a2b-5fec-4458-afd9-f00c244a9bfd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
