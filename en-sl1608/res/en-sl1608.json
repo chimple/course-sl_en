@@ -1,9 +1,28 @@
 {
   "rows": [
     [
-      "rocket",
+      "grid",
       "1",
       "Description",
+      "fl",
+      "y,u,ow"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "fl",
+      "ag,at,ap"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "fl",
+      "oor,eet,ute"
+    ],
+    [
+      "rocket",
       "1",
       "Description",
       "flower",
@@ -11,13 +30,11 @@
       "fl,ower",
       "flower.mp3",
       "flower.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "speakingpet",
-      "1",
-      "Description",
       "1",
       "Description",
       "bl.mp3",
@@ -43,8 +60,6 @@
       "spelldoor",
       "1",
       "Description",
-      "1",
-      "Description",
       "floor",
       "*l*or",
       "2",
@@ -56,8 +71,6 @@
       "spelldoor",
       "1",
       "Description",
-      "1",
-      "Description",
       "flower",
       "******",
       "4",
@@ -67,8 +80,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "soundonly_word",
@@ -84,8 +95,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
       "fly",
       "fly",
@@ -97,8 +106,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "word_word",
@@ -114,8 +121,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "word_word",
       "fl",
       "el",
@@ -127,8 +132,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "word_word",

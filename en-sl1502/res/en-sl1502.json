@@ -1,18 +1,7 @@
 {
   "rows": [
     [
-      "grid",
-      "1",
-      "Description",
-      "1",
-      "Description",
-      "th",
-      "ick,in,ing"
-    ],
-    [
       "phonictractor",
-      "1",
-      "Description",
       "1",
       "Description",
       "4",
@@ -23,8 +12,6 @@
     ],
     [
       "phonictractor",
-      "1",
-      "Description",
       "1",
       "Description",
       "5",
@@ -41,8 +28,6 @@
       "phonictractor",
       "1",
       "Description",
-      "1",
-      "Description",
       "5",
       "them",
       "them.mp3",
@@ -55,8 +40,6 @@
     ],
     [
       "phonictractor",
-      "1",
-      "Description",
       "1",
       "Description",
       "5",
@@ -73,8 +56,6 @@
       "phonictractor",
       "1",
       "Description",
-      "1",
-      "Description",
       "5",
       "they",
       "they.mp3",
@@ -89,8 +70,6 @@
       "phonictractor",
       "1",
       "Description",
-      "1",
-      "Description",
       "5",
       "this",
       "this.mp3",
@@ -102,16 +81,35 @@
       "s.mp3"
     ],
     [
+      "grid",
+      "1",
+      "Description",
+      "th",
+      "ick,in,ing"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "th",
+      "an,ank,at"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "fou,ear,too",
+      "th"
+    ],
+    [
       "rocket",
       "1",
       "Description",
-      "1",
-      "Description",
-      "brother",
+      "fourth",
       "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
       "b,r,o,t,h,e",
-      "brother.mp3",
-      "brother.png",
+      "fourth.mp3",
+      "fourth.png",
       "True",
       "False"
     ],
@@ -119,21 +117,17 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
-      "brother",
-      "father",
-      "mother",
-      "brother",
+      "fourth",
+      "first",
+      "fifth",
+      "fourth",
       "",
       "",
-      "brother.mp3"
+      "fourth.mp3"
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "word_word",
@@ -149,8 +143,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "word_word",
       "th",
       "th",
@@ -164,8 +156,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
       "this",
       "this",
@@ -173,16 +163,14 @@
       "they",
       "",
       "",
-      "this.mp3"
+      "chop.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
-      "chain",
+      "they",
       "they",
       "chain",
       "this",
