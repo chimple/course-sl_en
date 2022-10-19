@@ -4,6 +4,25 @@
       "grid",
       "1",
       "Description",
+      "ea",
+      "r,t,st"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ea",
+      "ch,rn,se"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ar,id,pl",
+      "ea"
+    ],
+    [
+      "grid",
       "1",
       "Description",
       "t,s,p",
@@ -11,8 +30,6 @@
     ],
     [
       "openwindow",
-      "1",
-      "Description",
       "1",
       "Description",
       "LEGIT",
@@ -26,20 +43,16 @@
       "rocket",
       "1",
       "Description",
-      "1",
-      "Description",
       "leaf",
       "l,ea,f",
       "l,ea,f",
       "leaf.mp3",
-      "leaf1.png",
-      "False",
-      "False"
+      "leaf.png",
+      "false",
+      "false"
     ],
     [
       "rocket",
-      "1",
-      "Description",
       "1",
       "Description",
       "teacher",
@@ -47,13 +60,11 @@
       "t,e,a,c,h,e,r",
       "teacher.mp3",
       "teacher.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "soundonly_word",
@@ -69,8 +80,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "soundonly_word",
       "sea",
       "egg",
@@ -82,8 +91,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "soundonly_image",
