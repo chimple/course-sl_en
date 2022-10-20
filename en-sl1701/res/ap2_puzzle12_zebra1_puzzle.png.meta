@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "41a2790d-e0f6-415b-9c5f-a38ca6cec10e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 207,
+  "height": 345,
+  "platformSettings": {},
+  "subMetas": {
+    "ap2_puzzle12_zebra1_puzzle": {
+      "ver": "1.0.6",
+      "uuid": "045cb12e-264a-41c5-81a5-1fbda4a9e424",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "41a2790d-e0f6-415b-9c5f-a38ca6cec10e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 201,
+      "height": 333,
+      "rawWidth": 207,
+      "rawHeight": 345,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
