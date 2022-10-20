@@ -4,8 +4,6 @@
       "grid",
       "1",
       "Description",
-      "1",
-      "Description",
       "ch,g",
       "ap,ain,eese"
     ],
@@ -13,15 +11,11 @@
       "grid",
       "1",
       "Description",
-      "1",
-      "Description",
       "m,h,t",
       "int,eat,all"
     ],
     [
       "spelldoor",
-      "1",
-      "Description",
       "1",
       "Description",
       "meat",
@@ -33,8 +27,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "word_word",
@@ -49,8 +41,6 @@
       "quizliteracy",
       "1",
       "Description",
-      "1",
-      "Description",
       "word_word",
       "eat",
       "ark",
@@ -62,8 +52,6 @@
     ],
     [
       "quizliteracy",
-      "1",
-      "Description",
       "1",
       "Description",
       "word_word",
