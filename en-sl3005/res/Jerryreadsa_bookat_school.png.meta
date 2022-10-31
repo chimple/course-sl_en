@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3a23e8f7-76f3-4bcf-9da0-9e0c7d6da433",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 709,
+  "height": 703,
+  "platformSettings": {},
+  "subMetas": {
+    "Jerryreadsa_bookat_school": {
+      "ver": "1.0.6",
+      "uuid": "cb1a7481-2563-4572-9f10-6139b645b21e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3a23e8f7-76f3-4bcf-9da0-9e0c7d6da433",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -19.5,
+      "trimX": 0,
+      "trimY": 39,
+      "width": 709,
+      "height": 664,
+      "rawWidth": 709,
+      "rawHeight": 703,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

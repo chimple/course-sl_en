@@ -9,8 +9,8 @@
       "s,h,i,rt",
       "shirt.mp3",
       "shirt.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "rocket",
@@ -21,8 +21,8 @@
       "s,h,o,u,l,d,e,r",
       "shoulder.mp3",
       "shoulder.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "speakingpet",

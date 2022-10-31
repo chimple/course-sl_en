@@ -53,8 +53,8 @@
       "b,i,r,d",
       "bird.mp3",
       "bird.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -65,8 +65,8 @@
       "r,i,v,e,r",
       "river.mp3",
       "river.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -77,8 +77,8 @@
       "g,i,r,l",
       "girl.mp3",
       "girl.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "grid",

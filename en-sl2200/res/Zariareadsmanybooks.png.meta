@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e6614a5c-9687-4cde-9dcf-6d2f988fc2fd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 881,
+  "height": 620,
+  "platformSettings": {},
+  "subMetas": {
+    "Zariareadsmanybooks": {
+      "ver": "1.0.6",
+      "uuid": "f5eef677-6119-438e-9b02-8a9f04c1927a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e6614a5c-9687-4cde-9dcf-6d2f988fc2fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 881,
+      "height": 620,
+      "rawWidth": 881,
+      "rawHeight": 620,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
