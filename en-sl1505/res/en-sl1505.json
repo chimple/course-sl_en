@@ -105,8 +105,8 @@
       "sh,a,m,p,oo",
       "shampoo.mp3",
       "shampoo.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "rocket",
@@ -117,8 +117,8 @@
       "s,h,i,r,t",
       "shirt.mp3",
       "shirt.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "quizliteracy",

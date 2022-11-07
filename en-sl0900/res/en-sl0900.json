@@ -53,8 +53,8 @@
       "t,o,p",
       "top.mp3",
       "top.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -65,8 +65,8 @@
       "c,u,t",
       "cut.mp3",
       "cut.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -77,8 +77,8 @@
       "b,u,g",
       "bug.mp3",
       "bug.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "grid",

@@ -42,8 +42,8 @@
       "b,a,g",
       "bag.mp3",
       "bag.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -54,8 +54,8 @@
       "v,a,n",
       "van.mp3",
       "van.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -66,8 +66,8 @@
       "m,u,g",
       "mug.mp3",
       "mug.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "grid",
