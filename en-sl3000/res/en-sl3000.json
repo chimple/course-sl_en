@@ -24,7 +24,7 @@
       "Description",
       "[He] has [a] book[.]",
       "He_has_a_book.mp3",
-      "n",
+      "y",
       "unlocked"
     ],
     [
@@ -33,7 +33,7 @@
       "Description",
       "They [don't] eat fish[.]",
       "They_don't_eat_fish.mp3",
-      "y",
+      "n",
       "unlocked"
     ],
     [
@@ -60,7 +60,7 @@
       "Description",
       "We like [bananas][.]",
       "We_like_bananas.mp3",
-      "y",
+      "n",
       "unlocked"
     ],
     [

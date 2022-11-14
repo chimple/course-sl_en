@@ -33,7 +33,7 @@
       "Description",
       "Do [you] like bananas[?]",
       "Do_you_like_bananas.mp3",
-      "y",
+      "n",
       "unlocked"
     ],
     [
@@ -137,7 +137,7 @@
       "Where is the dog?",
       "Whereisthe_cat.jpg",
       "",
-      "Where_is_the_cat.mp3"
+      "where_is_the_cat.mp3"
     ]
   ]
 }
