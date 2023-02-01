@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "09c5d434-0758-4db7-a865-df9eb3e070ca",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l13_schoolfrontpark": {
+      "ver": "1.0.6",
+      "uuid": "e65d076e-0e62-43e9-9684-d1694131d2c5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "09c5d434-0758-4db7-a865-df9eb3e070ca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

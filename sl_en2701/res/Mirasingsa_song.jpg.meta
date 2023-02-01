@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "20e98940-04b3-4119-9ff1-126154a463cc",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 1188,
+  "platformSettings": {},
+  "subMetas": {
+    "Mirasingsa_song": {
+      "ver": "1.0.6",
+      "uuid": "b3b67e4e-b89c-4a53-b5e5-3a31dc73efad",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "20e98940-04b3-4119-9ff1-126154a463cc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 1188,
+      "rawWidth": 1073,
+      "rawHeight": 1188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

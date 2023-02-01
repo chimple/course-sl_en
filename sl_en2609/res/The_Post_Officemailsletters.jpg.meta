@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4b23bf74-1905-4454-b137-c645344055d9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 513,
+  "platformSettings": {},
+  "subMetas": {
+    "The_Post_Officemailsletters": {
+      "ver": "1.0.6",
+      "uuid": "918170ec-e3d5-41ca-9eb8-3c46d3c12c0f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4b23bf74-1905-4454-b137-c645344055d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 513,
+      "rawWidth": 1073,
+      "rawHeight": 513,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

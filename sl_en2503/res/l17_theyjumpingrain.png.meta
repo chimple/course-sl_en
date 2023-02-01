@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "90dfc463-0de3-4356-8311-6352ca8e1fff",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l17_theyjumpingrain": {
+      "ver": "1.0.6",
+      "uuid": "ffc81040-f62a-456c-a2a1-21833e08414e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "90dfc463-0de3-4356-8311-6352ca8e1fff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

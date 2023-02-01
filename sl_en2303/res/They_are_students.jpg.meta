@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "aa6b05ce-0271-4457-9b3e-ffedf75c8f5f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 800,
+  "height": 533,
+  "platformSettings": {},
+  "subMetas": {
+    "They_are_students": {
+      "ver": "1.0.6",
+      "uuid": "61e200fb-3d29-49c0-b5c1-9c42a309469e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "aa6b05ce-0271-4457-9b3e-ffedf75c8f5f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 533,
+      "rawWidth": 800,
+      "rawHeight": 533,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

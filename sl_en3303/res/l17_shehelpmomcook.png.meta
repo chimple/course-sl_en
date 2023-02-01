@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "84132807-b243-4833-b683-66d85fa4ef75",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l17_shehelpmomcook": {
+      "ver": "1.0.6",
+      "uuid": "ba6753dd-d2f9-4832-a360-ad37f837c97f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "84132807-b243-4833-b683-66d85fa4ef75",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

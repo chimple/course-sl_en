@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "01609e56-dd46-4d17-adbc-a76551bd9a67",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 768,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Raviplaysa_gamealone": {
+      "ver": "1.0.6",
+      "uuid": "af030b76-9e62-45b1-ad96-3373b51a7956",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "01609e56-dd46-4d17-adbc-a76551bd9a67",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 768,
+      "height": 512,
+      "rawWidth": 768,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

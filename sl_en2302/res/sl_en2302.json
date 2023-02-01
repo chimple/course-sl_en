@@ -1,0 +1,79 @@
+{
+  "rows": [
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[The] [girl] [is] [@hungry.]",
+      "The_girl_is_hungry.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[They] [are] [my] [@brothers.]",
+      "They_are_my_brothers.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Where/is/the cat?",
+      "",
+      "Whereisthe_cat.jpg",
+      "where_is_the_cat.mp3"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[He] [likes] [@oranges.]",
+      "He_likes_oranges.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "The girl is hungry.",
+      "The girl is running.",
+      "The girl is cute.",
+      "The girl is hungry.",
+      "",
+      "",
+      "The_girl_is_hungry.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "They are my brothers.",
+      "They are my brothers.",
+      "He are my brothers.",
+      "They is my brothers.",
+      "",
+      "",
+      "They_are_my_brothers.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "He likes oranges.",
+      "Oranges he likes.",
+      "He likes oranges.",
+      "He oranges like.",
+      "",
+      "",
+      "He_likes_oranges.mp3"
+    ]
+  ]
+}

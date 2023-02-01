@@ -1,0 +1,132 @@
+{
+  "rows": [
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[You] [are] [kind.]",
+      "You_are_kind.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[She] [is] [short.]",
+      "She_is_short.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[I] [am] [fast.]",
+      "I_am_fast.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The plant/grows",
+      "",
+      "The_plantgrows.jpg",
+      "The_plant_grows.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The ball/bounces",
+      "",
+      "The_ballbounces.jpg",
+      "The_ball_bounces.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The cow/eats",
+      "",
+      "Iteats.jpg",
+      "The_cow_eats.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Salma/drinks/milk",
+      "",
+      "Salma_drinks_milk.jpg",
+      "Salma_drinks_milk.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "The ball bounces.",
+      "The ball flies.",
+      "The ball bounces.",
+      "The ball falls.",
+      "The_ballbounces.jpg",
+      "",
+      "The_ball_bounces.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "The plant grows.",
+      "The plant dries.",
+      "The plant is short.",
+      "The plant grows.",
+      "The_plantgrows.jpg",
+      "",
+      "The_plant_grows.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "Aarthi reads.",
+      "Aarthi sings.",
+      "Aarthi reads.",
+      "Aarthi runs.",
+      "Komalreadsa_book.jpg",
+      "",
+      "Aarthi_reads.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "The cow eats.",
+      "Ram eats.",
+      "The cow eats.",
+      "Salma eats.",
+      "Iteats.jpg",
+      "",
+      "The_cow_eats.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "Salma drinks milk.",
+      "Salma drinks milk.",
+      "Salma eats salad.",
+      "Salma runs fast.",
+      "Salma_drinks_milk.jpg",
+      "",
+      "Salma_drinks_milk.mp3"
+    ]
+  ]
+}

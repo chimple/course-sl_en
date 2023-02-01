@@ -1,0 +1,82 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Rupees/500",
+      "600",
+      "5x100.png",
+      "rupees_500.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Rupees/40",
+      "30",
+      "4x10.png",
+      "rupees_40.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "200/Rupees",
+      "300",
+      "4x50.png",
+      "200_rupees.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "100/Rupees",
+      "150",
+      "2x50.png",
+      "100_rupees.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "200/Rupees",
+      "500",
+      "2x100.png",
+      "200_rupees.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "Rupees 500",
+      "Rupees 100",
+      "Rupees 50",
+      "Rupees 500",
+      "5x100.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "Rupees 40",
+      "Rupees 40",
+      "Rupees 50",
+      "Rupees 30",
+      "4x10.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "200 Rupees",
+      "100 Rupees",
+      "200 Rupees",
+      "20 Rupees",
+      "2x100.png"
+    ]
+  ]
+}
