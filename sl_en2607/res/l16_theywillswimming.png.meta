@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "480a34b7-b66f-4a7b-a9d6-d9146a5091ae",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l16_theywillswimming": {
+      "ver": "1.0.6",
+      "uuid": "8d7dc9b5-80dd-467b-bd7c-8d9bc5143ace",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "480a34b7-b66f-4a7b-a9d6-d9146a5091ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

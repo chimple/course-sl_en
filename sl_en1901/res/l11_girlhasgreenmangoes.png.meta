@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0d947377-fde6-4e6b-b2f7-b6d3c5616d1c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l11_girlhasgreenmangoes": {
+      "ver": "1.0.6",
+      "uuid": "f92a4a8a-5121-4ca5-803c-077688f76709",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0d947377-fde6-4e6b-b2f7-b6d3c5616d1c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
