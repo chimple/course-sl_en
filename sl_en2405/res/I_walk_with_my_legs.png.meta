@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b4229a9e-a5e4-438a-85a3-aa36894bc2ea",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 413,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "I_walk_with_my_legs": {
+      "ver": "1.0.6",
+      "uuid": "ab7ad134-3cbd-41ef-874f-d65c0e904410",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b4229a9e-a5e4-438a-85a3-aa36894bc2ea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 512,
+      "rawWidth": 413,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

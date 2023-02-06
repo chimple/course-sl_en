@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0a4343ee-ddd0-479a-9ffd-2ec74790fd37",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 284,
+  "platformSettings": {},
+  "subMetas": {
+    "Many_children_come_to_our_school": {
+      "ver": "1.0.6",
+      "uuid": "178ceae8-abef-42c7-953c-2a83fa7e163a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0a4343ee-ddd0-479a-9ffd-2ec74790fd37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 284,
+      "rawWidth": 512,
+      "rawHeight": 284,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
