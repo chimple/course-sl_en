@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a8418e15-b199-469e-a4ac-a9d8e41369d5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 384,
+  "platformSettings": {},
+  "subMetas": {
+    "I_see_stars_in_the_sky": {
+      "ver": "1.0.6",
+      "uuid": "01a96cfa-a9cd-47d0-aa53-6f3a79efdf44",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a8418e15-b199-469e-a4ac-a9d8e41369d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 384,
+      "rawWidth": 512,
+      "rawHeight": 384,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

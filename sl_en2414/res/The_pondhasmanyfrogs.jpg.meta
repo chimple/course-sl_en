@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "aec0bf0d-9db4-4c8a-975b-485be6c5b154",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 577,
+  "platformSettings": {},
+  "subMetas": {
+    "The_pondhasmanyfrogs": {
+      "ver": "1.0.6",
+      "uuid": "ed9a5042-ecb5-40df-adcf-a27608a8307d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "aec0bf0d-9db4-4c8a-975b-485be6c5b154",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 577,
+      "rawWidth": 1073,
+      "rawHeight": 577,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

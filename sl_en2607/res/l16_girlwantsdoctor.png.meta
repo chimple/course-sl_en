@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9d30f980-b601-423d-90c4-887cc1de8e99",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l16_girlwantsdoctor": {
+      "ver": "1.0.6",
+      "uuid": "3dfcb38c-8f21-47bd-a9a9-8c8150dfed80",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9d30f980-b601-423d-90c4-887cc1de8e99",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

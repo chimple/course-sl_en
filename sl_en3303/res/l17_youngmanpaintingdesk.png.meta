@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8871ec75-dd45-4dfc-8d20-0588c723f06b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l17_youngmanpaintingdesk": {
+      "ver": "1.0.6",
+      "uuid": "dca2e7ed-3c8b-4c7f-92cc-5b17a69199fa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8871ec75-dd45-4dfc-8d20-0588c723f06b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

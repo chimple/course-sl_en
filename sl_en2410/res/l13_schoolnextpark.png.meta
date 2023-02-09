@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "72257a37-930e-4934-a3af-fd4fe1422820",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l13_schoolnextpark": {
+      "ver": "1.0.6",
+      "uuid": "6084c7eb-eff8-47a4-95fa-6f1e5ce56a3b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "72257a37-930e-4934-a3af-fd4fe1422820",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
