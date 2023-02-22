@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "96ee068b-8cb3-4232-9b5e-c72d7e41333b",
+  "uuid": "338f1d81-0ab8-4556-998c-fcf7b78de98d",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "l6_hedoctor": {
       "ver": "1.0.6",
-      "uuid": "4dfae739-4440-4122-9617-a4a6deb731bf",
+      "uuid": "fe3acadf-ccd4-4c72-9f5b-3304a30445ee",
       "importer": "sprite-frame",
-      "rawTextureUuid": "96ee068b-8cb3-4232-9b5e-c72d7e41333b",
+      "rawTextureUuid": "338f1d81-0ab8-4556-998c-fcf7b78de98d",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
