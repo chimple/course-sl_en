@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c75347c8-0f17-418b-90b0-dfc9610545e9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1638,
+  "height": 1502,
+  "platformSettings": {},
+  "subMetas": {
+    "themilkisdelicious": {
+      "ver": "1.0.6",
+      "uuid": "836a6fbf-bfcc-4fb1-9493-4a543b619d31",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c75347c8-0f17-418b-90b0-dfc9610545e9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1638,
+      "height": 1502,
+      "rawWidth": 1638,
+      "rawHeight": 1502,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

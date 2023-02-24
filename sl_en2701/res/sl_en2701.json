@@ -79,28 +79,28 @@
       "createsentence",
       "1",
       "Description",
-      "Maya/reads/a book",
+      "Mabinty/reads/a book",
       "",
-      "Ranireadsmanybooks.jpg",
-      "Maya_reads_a_book.mp3"
+      "mabintyreadsabook.jpg",
+      "Mabinty_reads_a_book.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Rahim/plays/a game",
+      "Amadu/plays/a game",
       "",
-      "Raviplaysa_gamealone.jpg",
-      "Rahim_plays_a_game.mp3"
+      "amaduplays.jpg",
+      "Pruvah_plays_a_game.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Rita/sings/a song",
+      "Pruvah/sings/a song",
       "",
-      "Mirasingsa_song.jpg",
-      "Rita_sings_a_song.mp3"
+      "pruvahsings.jpg",
+      "Pruvah_sings_a_song.mp3"
     ],
     [
       "quizliteracy",
