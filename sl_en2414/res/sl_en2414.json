@@ -4,37 +4,37 @@
       "createsentence",
       "1",
       "Description",
-      "Mary/eats/many/apples",
+      "Binta/eats/many/apples",
       "",
-      "Maryeatsan_appleevery_day.jpg",
-      "mary_eats_many_apples.mp3"
+      "Bintaeatsan_appleevery_day.jpg",
+      "Binta_eats_many_apples.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Mary/eats/three/apples",
+      "Binta/eats/three/apples",
       "",
-      "Maryeatsan_appleevery_day.jpg",
-      "mary_eats_three_apples.mp3"
+      "Bintaeats3apples.jpg",
+      "Binta_eats_three_apples.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Rani/reads/many/books",
+      "Zaria/reads/many/books",
       "",
-      "Ranireadsmanybooks.jpg",
-      "Rani_reads_many_books.mp3"
+      "Zariareadsmanybooks.jpg",
+      "Zaria_reads_many_books.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Rani/reads/ten/books",
+      "Zaria/reads/ten/books",
       "",
-      "Ranireadsmanybooks.jpg",
-      "Rani_reads_ten_books.mp3"
+      "Zariareadstenbooks.jpg",
+      "Zaria_reads_ten_books.mp3"
     ],
     [
       "createsentence",

@@ -1,32 +1,26 @@
 {
   "rows": [
     [
-      "grid",
+      "openwindow",
       "1",
       "Description",
-      "ai",
-      "r,d,m"
+      "LEGIT",
+      "face",
+      "face.png",
+      "rain.png",
+      "face.mp3",
+      "abcdefghijklmnopqrstuvwxyz"
     ],
     [
-      "grid",
+      "openwindow",
       "1",
       "Description",
-      "h,p,fl",
-      "air"
-    ],
-    [
-      "grid",
-      "1",
-      "Description",
-      "m,p,g",
-      "ain"
-    ],
-    [
-      "grid",
-      "1",
-      "Description",
-      "s,m,p",
-      "aid"
+      "LEGIT",
+      "farm",
+      "farm.png",
+      "rain.png",
+      "farm.mp3",
+      "abcdefghijklmnopqrstuvwxyz"
     ],
     [
       "openwindow",
