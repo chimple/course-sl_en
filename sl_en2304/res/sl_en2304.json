@@ -4,10 +4,10 @@
       "createsentence",
       "1",
       "Description",
-      "Mary/eats/an apple/every day",
+      "Binta/eats/an apple/every day",
       "",
       "Maryeatsan_appleevery_day.jpg",
-      "mary_eats_an_apple_everyday.mp3"
+      "Binta_eats_an_apple_everyday.mp3"
     ],
     [
       "createsentence",
@@ -86,10 +86,10 @@
       "1",
       "Description",
       "sentence_sentence",
-      "Mary eats an apple.",
-      "Mary eats a apples.",
-      "Mary eats an apple.",
-      "Mary eating apple.",
+      "Binta eats an apple.",
+      "Binta eats a apples.",
+      "Binta eats an apple.",
+      "Binta eating apple.",
       "",
       "choose the right one",
       "Choose_the_right_one.mp3"

@@ -31,10 +31,10 @@
       "createsentence",
       "1",
       "Description",
-      "Rahul/screams/loudly",
+      "Paul/screams/loudly",
       "",
       "Rahulscreamsloudly.jpg",
-      "Rahul_screams_loudly.mp3"
+      "Paul_screams_loudly.mp3"
     ],
     [
       "createsentence",
@@ -108,7 +108,7 @@
       "John runs fast.",
       "John eats fast.",
       "John swims fast.",
-      "John_eats_fast.jpg",
+      "I_eat.jpg",
       "",
       "John_eats_fast.mp3"
     ],

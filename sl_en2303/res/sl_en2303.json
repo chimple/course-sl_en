@@ -4,10 +4,10 @@
       "createsentence",
       "1",
       "Description",
-      "Mary/is/a girl",
+      "Binta/is/a girl",
       "a boy",
       "aartiisa_girl.jpg",
-      "Mary_is_a_girl.mp3"
+      "Binta_is_a_girl.mp3"
     ],
     [
       "createsentence",
@@ -49,10 +49,10 @@
       "createsentence",
       "1",
       "Description",
-      "Mary/is/a smart/kid",
+      "Binta/is/a smart/kid",
       "",
       "Malaisa_smartkid.jpg",
-      "Mary_is_a_smart_kid.mp3"
+      "Binta_is_a_smart_kid.mp3"
     ],
     [
       "createsentence",
@@ -121,13 +121,13 @@
       "1",
       "Description",
       "image_sentence",
-      "Mary is a smart kid.",
-      "Mary is a smart kid.",
-      "Smart kid is Mary.",
-      "Kid Mary is smart.",
+      "Binta is a smart kid.",
+      "Binta is a smart kid.",
+      "Smart kid is Binta.",
+      "Kid Binta is smart.",
       "Malaisa_smartkid.jpg",
       "",
-      "Mary_is_a_smart_kid.mp3"
+      "Binta_is_a_smart_kid.mp3"
     ],
     [
       "quizliteracy",
