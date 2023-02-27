@@ -22,19 +22,19 @@
       "createsentence",
       "1",
       "Description",
-      "Zaria/reads/many/books",
+      "Rani/reads/many/books",
       "",
       "Zariareadsmanybooks.jpg",
-      "Zaria_reads_many_books.mp3"
+      "Rani_reads_many_books.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Zaria/reads/ten/books",
+      "Rani/reads/ten/books",
       "",
       "Zariareadstenbooks.jpg",
-      "Zaria_reads_ten_books.mp3"
+      "Rani_reads_ten_books.mp3"
     ],
     [
       "createsentence",
@@ -86,10 +86,10 @@
       "1",
       "Description",
       "sentence_sentence",
-      "Mary eats many apples.",
-      "Mary eats many apples.",
-      "Mary many apples eats.",
-      "Mary eating many apples.",
+      "Binta eats many apples.",
+      "Binta eats many apples.",
+      "Binta many apples eats.",
+      "Binta eating many apples.",
       "",
       "choose the right one",
       "Choose_the_right_one.mp3"
