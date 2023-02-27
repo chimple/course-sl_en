@@ -1,27 +1,6 @@
 {
   "rows": [
     [
-      "grid",
-      "1",
-      "Description",
-      "c,h,s",
-      "ue"
-    ],
-    [
-      "grid",
-      "1",
-      "Description",
-      "gl,bl,cl",
-      "ue"
-    ],
-    [
-      "grid",
-      "1",
-      "Description",
-      "tr,d,val",
-      "ue"
-    ],
-    [
       "speakingpet",
       "1",
       "Description",

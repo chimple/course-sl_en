@@ -4,19 +4,19 @@
       "createsentence",
       "1",
       "Description",
-      "Mary/eats/many/apples",
+      "Binta/eats/many/apples",
       "",
-      "Maryeatsan_appleevery_day.jpg",
-      "mary_eats_many_apples.mp3"
+      "Bintaeatsan_appleevery_day.jpg",
+      "Binta_eats_many_apples.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Mary/eats/three/apples",
+      "Binta/eats/three/apples",
       "",
-      "Maryeatsan_appleevery_day.jpg",
-      "mary_eats_three_apples.mp3"
+      "Bintaeats3apples.jpg",
+      "Binta_eats_three_apples.mp3"
     ],
     [
       "createsentence",
@@ -24,7 +24,7 @@
       "Description",
       "Rani/reads/many/books",
       "",
-      "Ranireadsmanybooks.jpg",
+      "Zariareadsmanybooks.jpg",
       "Rani_reads_many_books.mp3"
     ],
     [
@@ -33,7 +33,7 @@
       "Description",
       "Rani/reads/ten/books",
       "",
-      "Ranireadsmanybooks.jpg",
+      "Zariareadstenbooks.jpg",
       "Rani_reads_ten_books.mp3"
     ],
     [
@@ -86,10 +86,10 @@
       "1",
       "Description",
       "sentence_sentence",
-      "Mary eats many apples.",
-      "Mary eats many apples.",
-      "Mary many apples eats.",
-      "Mary eating many apples.",
+      "Binta eats many apples.",
+      "Binta eats many apples.",
+      "Binta many apples eats.",
+      "Binta eating many apples.",
       "",
       "choose the right one",
       "Choose_the_right_one.mp3"
