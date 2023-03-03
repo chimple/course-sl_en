@@ -42,8 +42,8 @@
       "c,l,a,p",
       "clap.mp3",
       "clap.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "openwindow",
@@ -51,7 +51,7 @@
       "Description",
       "LEGIT",
       "run",
-      "runpng",
+      "run.png",
       "swim.png",
       "run.mp3",
       "abcdefghijklmnopqrstuvwxyz"

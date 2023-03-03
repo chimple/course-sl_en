@@ -9,8 +9,8 @@
       "p,o,i,n,t,e,d",
       "pointed.mp3",
       "pointed.png",
-      "False",
-      "False"
+      "false",
+      "true"
     ],
     [
       "spelldoor",
@@ -32,8 +32,8 @@
       "w,r,o,t,e",
       "wrote.mp3",
       "wrote.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "spelldoor",
@@ -55,8 +55,8 @@
       "a,t,e",
       "ate.mp3",
       "ate.png",
-      "False",
-      "False"
+      "false",
+      "true"
     ],
     [
       "spelldoor",
