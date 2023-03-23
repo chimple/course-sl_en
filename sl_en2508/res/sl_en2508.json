@@ -38,7 +38,7 @@
       "1",
       "Description",
       "That beautiful dress is [hers]?",
-      "That beautiful dress is hers.mp3",
+      "That_beautiful_dress_is_hers.mp3",
       "we",
       "me",
       "she",
@@ -101,7 +101,7 @@
       "she",
       "",
       "That beautiful dress is ____?",
-      "That beautiful dress is hers?.mp3"
+      "That_beautiful_dress_is_hers.mp3"
     ],
     [
       "quizliteracy",

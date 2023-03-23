@@ -1,0 +1,97 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Half/bag/of/rice.",
+      "Full",
+      "Half_bag_of_rice.png",
+      "Half_bag_of_rice.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Half/glass/milk.",
+      "Full",
+      "Half_glass_milk.png",
+      "Half_glass_milk.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Half/plate/fruits.",
+      "Full",
+      "Half_plate_fruits.png",
+      "Half_plate_fruits.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Half/bucket/water.",
+      "Full",
+      "Half_bucket_water.png",
+      "Half_bucket_water.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Jar/half/full/of/candies.",
+      "full",
+      "Jar_half_full_of_candies.png",
+      "Jar_half_full_of_candies.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "Tub/half/filled/with/water.",
+      "full",
+      "Tub_half_filled_with_water.png",
+      "Tub_half_filled_with_water.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "Half bag of rice.",
+      "Half bag of rice.",
+      "Half plate fruits.",
+      "Jar half full of candies.",
+      "Half_bag_of_rice.png",
+      "",
+      "Half_bag_of_rice.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "Half plate fruits.",
+      "Jar half full of candies.",
+      "Half bag of rice.",
+      "Half plate fruits.",
+      "Half_plate_fruits.png",
+      "",
+      "Half_plate_fruits.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "Jar half full of candies.",
+      "Half plate fruits.",
+      "Jar half full of candies.",
+      "Half bag of rice.",
+      "Jar_half_full_of_candies.png",
+      "",
+      "Jar_half_full_of_candies.mp3"
+    ]
+  ]
+}

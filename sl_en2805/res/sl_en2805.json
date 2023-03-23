@@ -35,7 +35,7 @@
       "image",
       "full.png",
       "empty.png",
-      "full/empty.mp3",
+      "full_empty.mp3",
       "wet.png",
       "dry.png",
       "wet_dry.mp3",
@@ -163,7 +163,7 @@
       "night",
       "",
       "full X _____",
-      "full/empty.mp3"
+      "full_empty.mp3"
     ],
     [
       "quizliteracy",

@@ -63,7 +63,7 @@
       "brother",
       "brother.png",
       "sister.png",
-      "brother .mp3",
+      "brother.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -114,7 +114,7 @@
       "brother",
       "brother.png",
       "",
-      "brother .mp3"
+      "brother.mp3"
     ]
   ]
 }
