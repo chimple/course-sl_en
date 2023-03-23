@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The/elephant/is/the/heaviest.",
+      "lion",
+      "heaviest_elephant.png",
+      "The_elephant_is_the_heaviest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The/car/is/the/lightest.",
+      "bus",
+      "lightest_car.png",
+      "The_car_is_the_lightest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The/boy/is/the/lightest.",
+      "woman",
+      "boy_lightest.png",
+      "The_boy_is_the_lightest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The/watermelon/is/the/heaviest.",
+      "mango",
+      "heaviestwatermelon.png",
+      "The_watermelon_is_the_heaviest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The/stone/is/the/heaviest.",
+      "pencil",
+      "stoneheaviest.png",
+      "The_stone_is_the_heaviest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The/goat/is/the/lighest.",
+      "cow",
+      "lightest_goat.png",
+      "The_goat_is_the_lighest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The/book/is/the/heaviest.",
+      "pen",
+      "bookheaviest.png",
+      "The_book_is_the_heaviest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "The/whale/is/the/heaviest.",
+      "shark",
+      "whale_heaviest.png",
+      "The_whale_is_the_heaviest.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "The car is the lightest.",
+      "The whale is the heaviest.",
+      "The watermelon is the heaviest.",
+      "The car is the lightest.",
+      "lightest_car.png",
+      "",
+      "The_car_is_the_lightest.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "The watermelon is the heaviest.",
+      "The watermelon is the heaviest.",
+      "The car is the lightest.",
+      "The whale is the heaviest.",
+      "heaviestwatermelon.png",
+      "",
+      "The_watermelon_is_the_heaviest.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "The whale is the heaviest.",
+      "The whale is the heaviest.",
+      "The man is the oldest of the three.",
+      "The watermelon is the heaviest.",
+      "whale_heaviest.png",
+      "",
+      "The_whale_is_the_heaviest.mp3"
+    ]
+  ]
+}
