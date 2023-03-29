@@ -93,7 +93,7 @@
       "Description",
       "brother",
       "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
-      "b,r,o,t,h,e",
+      "b,r,o,t,h,e,r",
       "brother.mp3",
       "brother.png",
       "true",
@@ -110,7 +110,7 @@
       "brother",
       "",
       "",
-      "fourth.mp3"
+      "brother.mp3"
     ],
     [
       "quizliteracy",
@@ -149,7 +149,7 @@
       "they",
       "",
       "",
-      "chop.mp3"
+      "this.mp3"
     ],
     [
       "quizliteracy",
@@ -162,7 +162,7 @@
       "this",
       "",
       "",
-      "chain.mp3"
+      "they.mp3"
     ]
   ]
 }
