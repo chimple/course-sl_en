@@ -24,8 +24,8 @@
       "jumpsentence",
       "1",
       "Description",
-      "Jay is [her] brother.",
-      "Jay_is_her_brother.mp3",
+      "Yamba is [her] brother.",
+      "Yamba_is_her_brother.mp3",
       "n",
       "unlocked"
     ],
@@ -66,24 +66,6 @@
       "unlocked"
     ],
     [
-      "jumpsentence",
-      "1",
-      "Description",
-      "Jay is [her] brother.",
-      "Jay_is_her_brother.mp3",
-      "n",
-      "unlocked"
-    ],
-    [
-      "jumpsentence",
-      "1",
-      "Description",
-      "These are [my] books.",
-      "These_are_my_books.mp3",
-      "n",
-      "unlocked"
-    ],
-    [
       "quizliteracy",
       "1",
       "Description",
@@ -119,8 +101,8 @@
       "her",
       "his",
       "",
-      "Jay is ___ brother.",
-      "Jay_is_her_brother.mp3"
+      "Yamba is ___ brother.",
+      "Yamba_is_her_brother.mp3"
     ],
     [
       "quizliteracy",
