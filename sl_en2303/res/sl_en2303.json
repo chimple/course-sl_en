@@ -22,10 +22,10 @@
       "createsentence",
       "1",
       "Description",
-      "Salma and Rita/are/students",
+      "Massa and Pruvha/are/students",
       "doctors",
-      "Salma_and_Rita_are_students.jpg",
-      "Salma_and_Rita_are_students.mp3"
+      "Massa_and_Pruvah_are_students.png",
+      "Massa_and_Pruvah_are_students.mp3"
     ],
     [
       "createsentence",
@@ -33,17 +33,17 @@
       "Description",
       "They/are/students",
       "doctors",
-      "They_are_students.jpg",
+      "They_are_students.png",
       "They_are_students.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Anand/is/a farmer",
+      "Lamin/is/a farmer",
       "a lion",
-      "Gopiisa_goodfarmer.jpg",
-      "Anand_is_a_farmer.mp3"
+      "Gopiisa_goodfarmer.png",
+      "Lamin_is_a_farmer.mp3"
     ],
     [
       "createsentence",
@@ -58,63 +58,63 @@
       "createsentence",
       "1",
       "Description",
-      "Salma/is/a helpful/friend",
+      "Massa/is/a helpful/friend",
       "",
-      "Hinaisa_helpfulfriend.jpg",
-      "Salma_is_a_helpful_friend.mp3"
+      "Hinaisa_helpfulfriend.png",
+      "Massa_is_a_helpful_friend.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Anand/is/a tall/boy",
+      "Lamin/is/a tall/boy",
       "",
-      "Chrisisa_tallboy.jpg",
-      "Anand_is_a_tall_boy.mp3"
+      "Chrisisa_tallboy.png",
+      "Lamin_is_a_tall_boy.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Nita/is/a fast/swimmer",
+      "Ramatu/is/a fast/swimmer",
       "",
-      "Nitaisa_fastswimmer.jpg",
-      "Nita_is_a_fast_swimmer.mp3"
+      "Ramatuisa_fastswimmer.png",
+      "Ramatu_is_a_fast_swimmer.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Anand/is/a good/farmer",
+      "Lamin/is/a good/farmer",
       "",
-      "Gopiisa_goodfarmer.jpg",
-      "Anand_is_a_good_farmer.mp3"
+      "Gopiisa_goodfarmer.png",
+      "Lamin_is_a_good_farmer.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_sentence",
-      "Anand is a boy.",
-      "Anand is a boy.",
-      "Anand is a girl.",
-      "Anand is a man.",
-      "Johnisa_boy.jpg",
+      "Lamin is a boy.",
+      "Lamin is a boy.",
+      "Lamin is a girl.",
+      "Lamin is a man.",
+      "Johnisa_boy.png",
       "",
-      "Anand_is_a_boy.mp3"
+      "Lamin_is_a_boy.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_sentence",
-      "Salma and Rita are students.",
-      "Salma and Rita are doctors.",
-      "Salma and Rita are students.",
-      "Salma and Rita are farmers.",
-      "Salma_and_Rita_are_students.jpg",
+      "Massa and Pruvah are students.",
+      "Massa and Pruvah are doctors.",
+      "Massa and Pruvah are students.",
+      "Massa and Pruvah are farmers.",
+      "Massa_and_Pruvah_are_students.png",
       "",
-      "Salma_and_Rita_are_students.mp3"
+      "Massa_and_Pruvah_are_students.mp3"
     ],
     [
       "quizliteracy",
