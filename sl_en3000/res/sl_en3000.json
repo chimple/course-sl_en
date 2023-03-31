@@ -4,8 +4,8 @@
       "fillblank",
       "1",
       "Description",
-      "Aliya looks [happy].",
-      "Aliya_looks_happy.mp3",
+      "Kadie looks [happy].",
+      "Kadie_looks_happy.mp3",
       "sleepy",
       "hungry",
       "scared",
@@ -48,8 +48,8 @@
       "fillblank",
       "1",
       "Description",
-      "Sundar's brother is [tall].",
-      "Sundar's_brother_is_tall.mp3",
+      "Sulaiman's brother is [tall].",
+      "Sulaiman's_brother_is_tall.mp3",
       "short",
       "big",
       "small",
@@ -109,8 +109,8 @@
       "happy",
       "sleepy",
       "",
-      "Aliya looks ______.",
-      "Aliya_looks_happy.mp3"
+      "Kadie looks ______.",
+      "Kadie_looks_happy.mp3"
     ],
     [
       "quizliteracy",
