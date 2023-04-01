@@ -31,46 +31,46 @@
       "createsentence",
       "1",
       "Description",
-      "Ram/eats",
+      "Edward/eats",
       "",
       "I_eat.jpg",
-      "Ram_eats.mp3"
+      "Edward_eats.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Aarthi/reads",
+      "Megan/reads",
       "",
-      "Ranireadsmanybooks.jpg",
-      "Aarthi_reads.mp3"
+      "Zariareadsmanybooks.jpg",
+      "Megan_reads.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Manju/plays",
+      "Omar/plays",
       "",
-      "Manju_plays.png",
-      "Manju_plays.mp3"
+      "Omar_plays.png",
+      "Omar_plays.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Rita/swims",
+      "Pruvah/swims",
       "",
-      "Rita_swims.jpg",
-      "Rita_swims.mp3"
+      "Pruvah_swims.jpg",
+      "Pruvah_swims.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Salma/walks",
+      "Massa/walks",
       "",
       "komalwalks.jpg",
-      "Salma_walks.mp3"
+      "Massa_walks.mp3"
     ],
     [
       "createsentence",
@@ -125,26 +125,26 @@
       "1",
       "Description",
       "image_sentence",
-      "Aarthi reads.",
-      "Aarthi sings.",
-      "Aarthi reads.",
-      "Aarthi runs.",
-      "Ranireadsmanybooks.jpg",
+      "Megan reads.",
+      "Megan sings.",
+      "Megan reads.",
+      "Megan runs.",
+      "Zariareadsmanybooks.jpg",
       "",
-      "Aarthi_reads.mp3"
+      "Megan_reads.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_sentence",
-      "Ram eats.",
-      "Ram eats.",
-      "Ram jumps.",
-      "Ram reads.",
+      "Edward eats.",
+      "Edward eats.",
+      "Edward jumps.",
+      "Edward reads.",
       "I_eat.jpg",
       "",
-      "Ram_eats.mp3"
+      "Edward_eats.mp3"
     ]
   ]
 }
