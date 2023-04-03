@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "9f07fc7c-b358-4c5a-989f-40b61bdc9391",
+  "uuid": "b6fdb85d-7cfc-4fbf-9f02-9c36476ebed7",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -9,14 +9,14 @@
   "genMipmaps": false,
   "packable": true,
   "width": 384,
-  "height": 271,
+  "height": 248,
   "platformSettings": {},
   "subMetas": {
-    "I_eat": {
+    "kitchen": {
       "ver": "1.0.6",
-      "uuid": "fc15bc73-7d2b-4998-9f94-cc15ccd80e8d",
+      "uuid": "d8b85e45-2190-4e6e-86ac-b32c4cb0da54",
       "importer": "sprite-frame",
-      "rawTextureUuid": "9f07fc7c-b358-4c5a-989f-40b61bdc9391",
+      "rawTextureUuid": "b6fdb85d-7cfc-4fbf-9f02-9c36476ebed7",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -25,9 +25,9 @@
       "trimX": 0,
       "trimY": 0,
       "width": 384,
-      "height": 271,
+      "height": 248,
       "rawWidth": 384,
-      "rawHeight": 271,
+      "rawHeight": 248,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

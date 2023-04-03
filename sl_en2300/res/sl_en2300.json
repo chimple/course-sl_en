@@ -33,7 +33,7 @@
       "Description",
       "Edward/eats",
       "",
-      "I_eat.jpg",
+      "I_eat.png",
       "Edward_eats.mp3"
     ],
     [
@@ -42,7 +42,7 @@
       "Description",
       "Megan/reads",
       "",
-      "Zariareadsmanybooks.jpg",
+      "Zariareadsmanybooks.png",
       "Megan_reads.mp3"
     ],
     [
@@ -129,7 +129,7 @@
       "Megan sings.",
       "Megan reads.",
       "Megan runs.",
-      "Zariareadsmanybooks.jpg",
+      "Zariareadsmanybooks.png",
       "",
       "Megan_reads.mp3"
     ],
@@ -142,7 +142,7 @@
       "Edward eats.",
       "Edward jumps.",
       "Edward reads.",
-      "I_eat.jpg",
+      "I_eat.png",
       "",
       "Edward_eats.mp3"
     ]
