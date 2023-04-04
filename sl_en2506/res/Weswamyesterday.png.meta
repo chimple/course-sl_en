@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "ac49bb11-7008-4c56-b2aa-d08fee70d90d",
+  "uuid": "1a4ed014-7188-4b85-9e13-6540dddbd419",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Weswamyesterday": {
       "ver": "1.0.6",
-      "uuid": "55e33fb0-a218-4ce6-b4b3-cb7f956876d4",
+      "uuid": "77fa0e49-94f7-42b7-9a80-61214f31c44a",
       "importer": "sprite-frame",
-      "rawTextureUuid": "ac49bb11-7008-4c56-b2aa-d08fee70d90d",
+      "rawTextureUuid": "1a4ed014-7188-4b85-9e13-6540dddbd419",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -58,10 +58,10 @@
       "createsentence",
       "1",
       "Description",
-      "Salma/drinks/milk",
+      "Massa/drinks/milk",
       "",
-      "Salma_drinks_milk.jpg",
-      "Salma_drinks_milk.mp3"
+      "Massa_drinks_milk.jpg",
+      "Massa_drinks_milk.mp3"
     ],
     [
       "quizliteracy",
@@ -94,13 +94,13 @@
       "1",
       "Description",
       "image_sentence",
-      "Aarthi reads.",
-      "Aarthi sings.",
-      "Aarthi reads.",
-      "Aarthi runs.",
+      "Megan reads.",
+      "Megan sings.",
+      "Megan reads.",
+      "Megan runs.",
       "Komalreadsa_book.jpg",
       "",
-      "Aarthi_reads.mp3"
+      "Megan_reads.mp3"
     ],
     [
       "quizliteracy",
@@ -108,9 +108,9 @@
       "Description",
       "image_sentence",
       "The cow eats.",
-      "Ram eats.",
+      "Edward eats.",
       "The cow eats.",
-      "Salma eats.",
+      "Massa eats.",
       "Iteats.jpg",
       "",
       "The_cow_eats.mp3"
@@ -120,13 +120,13 @@
       "1",
       "Description",
       "image_sentence",
-      "Salma drinks milk.",
-      "Salma drinks milk.",
-      "Salma eats salad.",
-      "Salma runs fast.",
-      "Salma_drinks_milk.jpg",
+      "Massa drinks milk.",
+      "Massa drinks milk.",
+      "Massa eats salad.",
+      "Massa runs fast.",
+      "Massa_drinks_milk.jpg",
       "",
-      "Salma_drinks_milk.mp3"
+      "Massa_drinks_milk.mp3"
     ]
   ]
 }

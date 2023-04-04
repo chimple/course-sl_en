@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "b412f475-d4f6-4e40-8b56-0ce4225004f9",
+  "uuid": "d77d82a8-0ab9-4356-94f0-5ef1fc07ac63",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Fodayplaysa_gamealone": {
       "ver": "1.0.6",
-      "uuid": "3549f60b-f69f-4d8a-8530-7af345408e47",
+      "uuid": "25260722-8dd9-4961-a8e3-269335a2be89",
       "importer": "sprite-frame",
-      "rawTextureUuid": "b412f475-d4f6-4e40-8b56-0ce4225004f9",
+      "rawTextureUuid": "d77d82a8-0ab9-4356-94f0-5ef1fc07ac63",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

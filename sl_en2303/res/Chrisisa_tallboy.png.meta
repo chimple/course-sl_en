@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "6eda8ab3-8ba3-4ad6-bdde-f4e50fb0ae35",
+  "uuid": "a7e886eb-8a0b-4d05-aeec-76871d1d6cd4",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Chrisisa_tallboy": {
       "ver": "1.0.6",
-      "uuid": "75a4818c-47cc-4569-8415-4d2b0159140a",
+      "uuid": "5ef07673-5d61-4858-9cda-e01c50036002",
       "importer": "sprite-frame",
-      "rawTextureUuid": "6eda8ab3-8ba3-4ad6-bdde-f4e50fb0ae35",
+      "rawTextureUuid": "a7e886eb-8a0b-4d05-aeec-76871d1d6cd4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

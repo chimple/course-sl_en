@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "02b733c8-65fd-4a54-b9f5-f87e15e60491",
+  "uuid": "0be34160-5fec-445e-940f-e2157f4e65d4",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "theysellmilktogether1": {
       "ver": "1.0.6",
-      "uuid": "e327b0b8-1a50-4299-b43d-f8e219ed3d65",
+      "uuid": "87a3fe9d-8bee-43b0-b255-c78fc4f0cdfe",
       "importer": "sprite-frame",
-      "rawTextureUuid": "02b733c8-65fd-4a54-b9f5-f87e15e60491",
+      "rawTextureUuid": "0be34160-5fec-445e-940f-e2157f4e65d4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

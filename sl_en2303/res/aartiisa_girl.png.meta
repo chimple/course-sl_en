@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "01079b2d-185d-4dc1-bbbf-3e86b41ced43",
+  "uuid": "e9aa203b-0d48-49f9-b9fe-03132a7bd760",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "aartiisa_girl": {
       "ver": "1.0.6",
-      "uuid": "06847521-53cb-4568-9ae8-a5496d9220fb",
+      "uuid": "0ed22a68-56ba-41bc-abba-d2f2c522432d",
       "importer": "sprite-frame",
-      "rawTextureUuid": "01079b2d-185d-4dc1-bbbf-3e86b41ced43",
+      "rawTextureUuid": "e9aa203b-0d48-49f9-b9fe-03132a7bd760",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

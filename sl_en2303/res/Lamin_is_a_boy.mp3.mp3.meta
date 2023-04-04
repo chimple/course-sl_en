@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.3",
+<<<<<<<< HEAD:sl_en2303/res/Lamin_is_a_good_farmer.mp3.meta
+  "uuid": "62539fbb-1ffe-4e39-ad56-e829889b0050",
+  "importer": "audio-clip",
+  "downloadMode": 0,
+  "duration": 1.959184,
+========
+  "uuid": "2232d3ba-b5cd-442c-9413-4cfb54bf2108",
+  "importer": "audio-clip",
+  "downloadMode": 0,
+  "duration": 1.593469,
+>>>>>>>> master:sl_en2303/res/Lamin_is_a_boy.mp3.mp3.meta
+  "subMetas": {}
+}

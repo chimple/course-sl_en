@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "326d23e5-2a77-4b45-a504-bca7636f8d2a",
+  "uuid": "9fab7d68-8ef6-44c1-bab2-db2fd23782b6",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Zariareadsmanybooks": {
       "ver": "1.0.6",
-      "uuid": "f6a96679-ba88-44e9-9042-e77f01330956",
+      "uuid": "5fce86ee-9912-417e-b8c0-0b6dd3708435",
       "importer": "sprite-frame",
-      "rawTextureUuid": "326d23e5-2a77-4b45-a504-bca7636f8d2a",
+      "rawTextureUuid": "9fab7d68-8ef6-44c1-bab2-db2fd23782b6",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

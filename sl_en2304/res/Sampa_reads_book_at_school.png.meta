@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "ee52a053-1d73-4ed7-9163-34d313cb325f",
+  "uuid": "605f287e-44d2-45c9-9bd5-3ea607ba7ea8",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Sampa_reads_book_at_school": {
       "ver": "1.0.6",
-      "uuid": "19456b89-9214-49a0-b144-2f6ae37230a1",
+      "uuid": "9b6155e7-c934-4b09-8115-c04f366cef1b",
       "importer": "sprite-frame",
-      "rawTextureUuid": "ee52a053-1d73-4ed7-9163-34d313cb325f",
+      "rawTextureUuid": "605f287e-44d2-45c9-9bd5-3ea607ba7ea8",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

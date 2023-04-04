@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "f8845159-dc45-44b0-b187-ce0e7d44ead6",
+  "uuid": "4e1b1c08-50a9-4f46-83ea-c3ce2ef0631b",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Ihavemanyfriends": {
       "ver": "1.0.6",
-      "uuid": "bb5aad0d-ea9d-4f2c-921d-9e81b269a21d",
+      "uuid": "82467703-6314-4091-95ae-8bea03694b55",
       "importer": "sprite-frame",
-      "rawTextureUuid": "f8845159-dc45-44b0-b187-ce0e7d44ead6",
+      "rawTextureUuid": "4e1b1c08-50a9-4f46-83ea-c3ce2ef0631b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "b5e4b590-ceb1-40ea-bb20-8480f7d590db",
+  "uuid": "d480957b-2eba-4956-90e8-8a3937ee2986",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Massa_and_Pruvah_are_students": {
       "ver": "1.0.6",
-      "uuid": "672df1d2-2641-4e46-9075-5a0f0a84eb19",
+      "uuid": "ad0323d1-8c32-4d05-96f7-e222cdb5677a",
       "importer": "sprite-frame",
-      "rawTextureUuid": "b5e4b590-ceb1-40ea-bb20-8480f7d590db",
+      "rawTextureUuid": "d480957b-2eba-4956-90e8-8a3937ee2986",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

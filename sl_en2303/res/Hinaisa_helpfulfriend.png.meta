@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "be0fef16-eb95-4fcb-ad05-a7acc9acde17",
+  "uuid": "464faa61-96bd-4565-9a14-84f87360c9bf",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Hinaisa_helpfulfriend": {
       "ver": "1.0.6",
-      "uuid": "0f782488-f769-440c-8ad0-a062ba8bf10a",
+      "uuid": "11b83387-14fa-464a-85b3-f2376978830a",
       "importer": "sprite-frame",
-      "rawTextureUuid": "be0fef16-eb95-4fcb-ad05-a7acc9acde17",
+      "rawTextureUuid": "464faa61-96bd-4565-9a14-84f87360c9bf",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

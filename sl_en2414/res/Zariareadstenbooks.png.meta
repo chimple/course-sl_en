@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "4298f7e7-c70a-48cd-a399-de779aeb6f66",
+  "uuid": "80beea7f-41ae-46a4-a967-b5272a2bef0f",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Zariareadstenbooks": {
       "ver": "1.0.6",
-      "uuid": "8fd2b60a-996b-45fc-9d2e-4158982b2f49",
+      "uuid": "ec97c0d4-7e1a-40cb-b017-83f96cfd867e",
       "importer": "sprite-frame",
-      "rawTextureUuid": "4298f7e7-c70a-48cd-a399-de779aeb6f66",
+      "rawTextureUuid": "80beea7f-41ae-46a4-a967-b5272a2bef0f",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "92d00320-fefc-4d53-ab5b-1519ee408b9e",
+  "uuid": "2d4f0a2b-6f50-4517-b351-4541a2377d8c",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Ramatuisa_fastswimmer": {
       "ver": "1.0.6",
-      "uuid": "e925c2c3-07ca-42c3-ab0e-75cce0f627d3",
+      "uuid": "b81cac91-1d07-4b40-b3c5-1a90182ddc17",
       "importer": "sprite-frame",
-      "rawTextureUuid": "92d00320-fefc-4d53-ab5b-1519ee408b9e",
+      "rawTextureUuid": "2d4f0a2b-6f50-4517-b351-4541a2377d8c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "4bac8795-6c33-4005-84c2-7ad9ef5c5540",
+  "uuid": "4914928e-92ae-47ea-a397-eeef8db3bf8b",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Pruvah_swims": {
       "ver": "1.0.6",
-      "uuid": "f2bcf479-3bfb-4f1d-b040-c7c999611fe0",
+      "uuid": "433638e8-3280-4ba7-bbe5-79d8a61e532b",
       "importer": "sprite-frame",
-      "rawTextureUuid": "4bac8795-6c33-4005-84c2-7ad9ef5c5540",
+      "rawTextureUuid": "4914928e-92ae-47ea-a397-eeef8db3bf8b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

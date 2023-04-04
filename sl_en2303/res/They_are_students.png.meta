@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "489ccd1b-ab69-4713-b54a-f794cfc02676",
+  "uuid": "e4c16165-e4aa-408f-abbb-09d6bd017f94",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "They_are_students": {
       "ver": "1.0.6",
-      "uuid": "b852ffb1-4970-4a79-8702-f5b7b0b3ef61",
+      "uuid": "de6215a2-2909-4404-b570-ef4108f3ded9",
       "importer": "sprite-frame",
-      "rawTextureUuid": "489ccd1b-ab69-4713-b54a-f794cfc02676",
+      "rawTextureUuid": "e4c16165-e4aa-408f-abbb-09d6bd017f94",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

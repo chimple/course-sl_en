@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "60cb836b-e259-426b-a7b8-3be989e0a75b",
+  "uuid": "670b8ee0-e4bd-44a7-a5a3-1773b9594539",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "komalwalks": {
       "ver": "1.0.6",
-      "uuid": "ce8d9b07-ab94-4c1f-b712-a88260373dbf",
+      "uuid": "0b09e5e1-6311-44ed-9f73-b9ae34da9822",
       "importer": "sprite-frame",
-      "rawTextureUuid": "60cb836b-e259-426b-a7b8-3be989e0a75b",
+      "rawTextureUuid": "670b8ee0-e4bd-44a7-a5a3-1773b9594539",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
