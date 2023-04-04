@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d77d82a8-0ab9-4356-94f0-5ef1fc07ac63",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 880,
+  "height": 620,
+  "platformSettings": {},
+  "subMetas": {
+    "Fodayplaysa_gamealone": {
+      "ver": "1.0.6",
+      "uuid": "25260722-8dd9-4961-a8e3-269335a2be89",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d77d82a8-0ab9-4356-94f0-5ef1fc07ac63",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 32,
+      "offsetY": -5.5,
+      "trimX": 146,
+      "trimY": 11,
+      "width": 652,
+      "height": 609,
+      "rawWidth": 880,
+      "rawHeight": 620,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
