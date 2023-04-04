@@ -22,8 +22,8 @@
       "jumpsentence",
       "1",
       "Description",
-      "[He] is [I]ndian.",
-      "He_is_Indian.mp3",
+      "[He] is [A]merican.",
+      "He_is_American.mp3",
       "y",
       "unlocked"
     ],
@@ -32,12 +32,12 @@
       "1",
       "Description",
       "word_word",
-      "R",
-      "R",
+      "J",
+      "J",
       "r",
       "s",
       "",
-      "_avi"
+      "_usu"
     ],
     [
       "quizliteracy",
@@ -56,12 +56,12 @@
       "1",
       "Description",
       "word_word",
-      "I",
+      "A",
       "k",
-      "I",
+      "A",
       "i",
       "",
-      "_ndian"
+      "_merican"
     ]
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d2085244-bf9b-4ff8-bf03-0baaefbc05d0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3939,
+  "height": 4136,
+  "platformSettings": {},
+  "subMetas": {
+    "Amadu_plays_a_game": {
+      "ver": "1.0.6",
+      "uuid": "9f736562-0578-480e-b0b3-ca68b8707ebc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d2085244-bf9b-4ff8-bf03-0baaefbc05d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3939,
+      "height": 4136,
+      "rawWidth": 3939,
+      "rawHeight": 4136,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

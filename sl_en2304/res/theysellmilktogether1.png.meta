@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "02b733c8-65fd-4a54-b9f5-f87e15e60491",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 864,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "theysellmilktogether1": {
+      "ver": "1.0.6",
+      "uuid": "e327b0b8-1a50-4299-b43d-f8e219ed3d65",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "02b733c8-65fd-4a54-b9f5-f87e15e60491",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 862,
+      "height": 689,
+      "rawWidth": 864,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
