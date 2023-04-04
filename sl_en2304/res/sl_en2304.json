@@ -13,19 +13,19 @@
       "createsentence",
       "1",
       "Description",
-      "Jaya/reads/a book/at school",
+      "Sampa/reads/a book/at school",
       "",
-      "jaya_reads_book_at_school.jpg",
-      "jaya_reads_book_at_school.mp3"
+      "Sampa_reads_book_at_school.png",
+      "Sampa_reads_book_at_school.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Ravi/plays/a game/alone",
+      "Foday/plays/a game/alone",
       "",
-      "Raviplaysa_gamealone.jpg",
-      "ravi_plays_a_game_alone.mp3"
+      "Fodayplaysa_gamealone.png",
+      "Foday_plays_a_game_alone.mp3"
     ],
     [
       "createsentence",
@@ -33,17 +33,17 @@
       "Description",
       "They/sell/milk/together",
       "",
-      "theysellmilktogether.jpg",
+      "theysellmilktogether1.png",
       "they_sell_milk_together.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Ramesh/drinks/milk/every day",
+      "Edwardesh/drinks/milk/every day",
       "",
       "The_milkisdelicious.jpg",
-      "ramesh_drinks_milk_everyday.mp3"
+      "Edwardesh_drinks_milk_everyday.mp3"
     ],
     [
       "createsentence",

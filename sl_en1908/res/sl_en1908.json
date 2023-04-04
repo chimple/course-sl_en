@@ -7,7 +7,7 @@
       "P",
       "He can't jump high.",
       "l12_hecantjumphigh.png",
-      "He_can't_jump_high.mp3",
+      "He_can_t_jump_high.mp3",
       "She can't jump high.",
       "l12_shecantjumphigh.png",
       "She_can't_jump_high.mp3",
@@ -116,7 +116,7 @@
       "He can jump high.",
       "l12_hecantjumphigh.png",
       "",
-      "He_can't_jump_high.mp3"
+      "He_can_t_jump_high.mp3"
     ],
     [
       "quizliteracy",

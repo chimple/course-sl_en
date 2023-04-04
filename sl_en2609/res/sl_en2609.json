@@ -15,7 +15,7 @@
       "Description",
       "The cow/makes/milk",
       "",
-      "The_cowmakesmilk.jpg",
+      "cow.png",
       "The_cow_makes_milk.mp3"
     ],
     [
@@ -24,7 +24,7 @@
       "Description",
       "The Post Office/mails/letters",
       "",
-      "The_Post_Officemailsletters.jpg",
+      "post.png",
       "The_Post_Office_mails_letters.mp3"
     ],
     [
@@ -76,7 +76,7 @@
       "The cow makes eggs.",
       "The hen makes milk.",
       "The cow makes milk.",
-      "The_cowmakesmilk.jpg",
+      "cow.png",
       "",
       "The_cow_makes_milk.mp3"
     ],
@@ -89,7 +89,7 @@
       "The post office mails letters.",
       "The post office mails food.",
       "The hotel mails letters.",
-      "The_Post_Officemailsletters.jpg",
+      "post.png",
       "",
       "The_Post_Office_mails_letters.mp3"
     ],
