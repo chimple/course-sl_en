@@ -1,10 +1,6 @@
 {
   "ver": "2.3.7",
-<<<<<<<< HEAD:sl_en2609/res/cow.png.meta
-  "uuid": "8324a492-bec8-409d-8fa3-4fa7b6b67b55",
-========
   "uuid": "67c5ec82-8b2f-49ec-8345-d24657ed883e",
->>>>>>>> master:sl_en2300/res/Zariareadsmanybooks.png.meta
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,17 +8,6 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
-<<<<<<<< HEAD:sl_en2609/res/cow.png.meta
-  "width": 740,
-  "height": 740,
-  "platformSettings": {},
-  "subMetas": {
-    "cow": {
-      "ver": "1.0.6",
-      "uuid": "036a6b20-8775-4dfb-a013-e31319e7ffaf",
-      "importer": "sprite-frame",
-      "rawTextureUuid": "8324a492-bec8-409d-8fa3-4fa7b6b67b55",
-========
   "width": 384,
   "height": 270,
   "platformSettings": {},
@@ -32,7 +17,6 @@
       "uuid": "b010b658-4c5a-449a-b7c1-3a5f2e6bfef2",
       "importer": "sprite-frame",
       "rawTextureUuid": "67c5ec82-8b2f-49ec-8345-d24657ed883e",
->>>>>>>> master:sl_en2300/res/Zariareadsmanybooks.png.meta
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -40,17 +24,10 @@
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-<<<<<<<< HEAD:sl_en2609/res/cow.png.meta
-      "width": 740,
-      "height": 740,
-      "rawWidth": 740,
-      "rawHeight": 740,
-========
       "width": 384,
       "height": 270,
       "rawWidth": 384,
       "rawHeight": 270,
->>>>>>>> master:sl_en2300/res/Zariareadsmanybooks.png.meta
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
