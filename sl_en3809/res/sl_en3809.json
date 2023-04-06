@@ -28,7 +28,7 @@
       "Description",
       "LEGIT",
       "Short",
-      "glass.png",
+      "half_full_glass.png",
       "jar.png",
       "short.mp3",
       "abcdefghijklmnopqrstuvwxyz"
@@ -107,7 +107,9 @@
       "Description",
       "soundonly_image",
       "glass.png",
+
       "glass.png",
+      "half_full_glass.png",
       "jar.png",
       "bucket.png",
       "",
