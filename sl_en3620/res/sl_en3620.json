@@ -6,7 +6,7 @@
       "Description",
       "LEGIT",
       "day",
-      "day1png",
+      "day1.png",
       "night1.png",
       "day.mp3",
       "abcdefghijklmnopqrstuvwxyz"
@@ -18,7 +18,7 @@
       "LEGIT",
       "night",
       "night1.png",
-      "day1png",
+      "day1.png",
       "night.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -93,8 +93,8 @@
       "1",
       "Description",
       "soundonly_image",
-      "day1png",
-      "day1png",
+      "day1.png",
+      "day1.png",
       "night6.png",
       "night2.png",
       "",
