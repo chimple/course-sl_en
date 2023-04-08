@@ -1,52 +1,71 @@
 {
   "rows": [
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "July",
       "July.png",
-      "July.mp3"
+      "October.png",
+      "July.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "August",
       "August.png",
-      "August.mp3"
+      "November.png",
+      "August.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "September",
       "September.png",
-      "September.mp3"
+      "December.png",
+      "September.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "October",
       "October.png",
-      "October.mp3"
+      "July.png",
+      "October.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "November",
       "November.png",
-      "November.mp3"
+      "August.png",
+      "November.mp3",
+      ""
     ],
     [
-      "writeword",
+
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "December",
       "December.png",
-      "December.mp3"
+      "September.png",
+      "December.mp3",
+      ""
     ],
     [
       "quizliteracy",

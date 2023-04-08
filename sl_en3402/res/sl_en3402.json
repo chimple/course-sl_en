@@ -7,17 +7,20 @@
       "LEGIT",
       "sixteen",
       "sixteen.png",
-      "nineteen.png"
-      "sixteen.mp3"
-      "abcdefghijklmnopqrstuvwxyz"
+      "nineteen.png",
+      "sixteen.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "seventeen",
       "seventeen.png",
-      "seventeen.mp3"
+      "sixteen.png",
+      "seventeen.mp3",
+      ""
     ],
     [
       "writeword",
