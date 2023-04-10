@@ -1,60 +1,81 @@
 {
   "rows": [
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "Sunday",
       "Sunday.png",
-      "Sunday.mp3"
+      "Wednesday.png",
+      "Sunday.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "Monday",
       "Monday.png",
-      "Monday.mp3"
+      "Thursday.png",
+      "Monday.mp3",
+      ""
     ],
     [
-      "writeword",
+        "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "Tuesday",
       "Tuesday.png",
-      "Tuesday.mp3"
+      "Friday.png",
+      "Tuesday.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "Wednesday",
       "Wednesday.png",
-      "Wednesday.mp3"
+      "Saturday.png",
+      "Wednesday.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "Thursday",
       "Thursday.png",
-      "Thursday.mp3"
+      "Sunday.png",
+      "Thursday.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "Friday",
       "Friday.png",
-      "Friday.mp3"
+      "Monday.png",
+      "Friday.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "Saturday",
       "Saturday.png",
-      "Saturday.mp3"
+      "Tuesday.png",
+      "Saturday.mp3",
+      ""
     ],
     [
       "quizliteracy",
@@ -87,8 +108,8 @@
       "1",
       "Description",
       "word_word",
-      "Sat",
       "Tue",
+      "Sat",
       "Wed",
       "Sun",
       "",
