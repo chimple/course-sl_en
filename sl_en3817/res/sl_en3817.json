@@ -6,7 +6,7 @@
       "Description",
       "Half/apple.",
       "",
-      "Half_apple.png",
+      "halfapple.png",
       "Half_apple.mp3"
     ],
     [
@@ -77,7 +77,7 @@
       "1",
       "Description",
       "soundonly_image",
-      "Half_apple.png",
+      "halfapple.png",
       "Half_apple.png",
       "Half_square.png",
       "Half_triangle.png",
@@ -92,7 +92,7 @@
       "soundonly_image",
       "Half_square.png",
       "Half_triangle.png",
-      "Half_apple.png",
+      "halfapple.png",
       "Half_square.png",
       "",
       "",
@@ -106,7 +106,7 @@
       "Half_triangle.png",
       "Half_square.png",
       "Half_triangle.png",
-      "Half_apple.png",
+      "halfapple.png",
       "",
       "",
       "Half_triangle.mp3"
