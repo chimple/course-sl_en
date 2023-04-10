@@ -1,60 +1,81 @@
 {
   "rows": [
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "sixteen",
       "sixteen.png",
-      "sixteen.mp3"
+      "nineteen.png",
+      "sixteen.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "seventeen",
       "seventeen.png",
-      "seventeen.mp3"
+      "twenty.png",
+      "seventeen.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "eighteen",
       "eighteen.png",
-      "eighteen.mp3"
+      "thirty.png",
+      "eighteen.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "nineteen",
       "nineteen.png",
-      "nineteen.mp3"
+      "forty.png",
+      "nineteen.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "twenty",
       "twenty.png",
-      "twenty.mp3"
+      "sixteen.png",
+      "twenty.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "thirty",
       "thirty.png",
-      "thirty.mp3"
+      "seventeen.png",
+      "thirty.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "forty",
       "forty.png",
-      "forty.mp3"
+      "eighteen.png",
+      "forty.mp3",
+      ""
     ],
     [
       "quizliteracy",

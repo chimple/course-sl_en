@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1a4ed014-7188-4b85-9e13-6540dddbd419",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1200,
+  "height": 836,
+  "platformSettings": {},
+  "subMetas": {
+    "Weswamyesterday": {
+      "ver": "1.0.6",
+      "uuid": "77fa0e49-94f7-42b7-9a80-61214f31c44a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1a4ed014-7188-4b85-9e13-6540dddbd419",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1200,
+      "height": 836,
+      "rawWidth": 1200,
+      "rawHeight": 836,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

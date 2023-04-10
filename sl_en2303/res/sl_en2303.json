@@ -15,14 +15,14 @@
       "Description",
       "Lamin/is/a boy",
       "a girl",
-      "Johnisa_boy.png",
+      "Johnisa_boy.jpg",
       "Lamin_is_a_boy.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Massa and Pruvha/are/students",
+      "Massa and Pruvah/are/students",
       "doctors",
       "Massa_and_Pruvah_are_students.png",
       "Massa_and_Pruvah_are_students.mp3"
@@ -51,7 +51,7 @@
       "Description",
       "Binta/is/a smart/kid",
       "",
-      "Malaisa_smartkid.jpg",
+      "Malaisa_smartkid.png",
       "Binta_is_a_smart_kid.mp3"
     ],
     [
@@ -125,7 +125,7 @@
       "Binta is a smart kid.",
       "Smart kid is Binta.",
       "Kid Binta is smart.",
-      "Malaisa_smartkid.jpg",
+      "Malaisa_smartkid.png",
       "",
       "Binta_is_a_smart_kid.mp3"
     ],
@@ -134,26 +134,26 @@
       "1",
       "Description",
       "image_sentence",
-      "Nita is a fast swimmer.",
-      "Fast swimmer is Nita.",
-      "Swimmer fast is Nita.",
-      "Nita is a fast swimmer.",
+      "Ramatu is a fast swimmer.",
+      "Fast swimmer is Ramatu.",
+      "Swimmer fast is Ramatu.",
+      "Ramatu is a fast swimmer.",
       "Nitaisa_fastswimmer.jpg",
       "",
-      "Nita_is_a_fast_swimmer.mp3"
+      "Ramatu_is_a_fast_swimmer.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_sentence",
-      "Anand is a tall boy.",
-      "Anand is a tall boy.",
+      "Lamin is a tall boy.",
+      "Lamin is a tall boy.",
       "Tall boy is Anand.",
       "Boy tall is Anand.",
-      "Chrisisa_tallboy.jpg",
+      "Chrisisa_tallboy.png",
       "",
-      "Anand_is_a_tall_boy.mp3"
+      "Lamin_is_a_tall_boy.mp3"
     ]
   ]
 }

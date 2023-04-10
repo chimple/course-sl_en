@@ -84,10 +84,10 @@
       "1",
       "Description",
       "sentence_sentence",
-      "Satuday",
+      "Saturday",
       "Thursday",
       "Sunday",
-      "Satuday",
+      "Saturday",
       "",
       "________ comes before Sunday.",
       "Saturday_comes_before_Sunday.mp3",
@@ -277,11 +277,11 @@
       "Description",
       "sentence_sentence",
       "Thursday",
-      "Satuday",
+      "Saturday",
       "Thursday",
       "Sunday",
       "",
-      "Wednesday comes before [________.",
+      "Wednesday comes before [________].",
       "Wednesday_comes_before_Thursday.mp3"
     ]
   ]

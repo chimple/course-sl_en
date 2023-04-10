@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4b615ba5-b30d-4b08-a51f-0b6343400b05",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 384,
+  "height": 305,
+  "platformSettings": {},
+  "subMetas": {
+    "Gopiisa_goodfarmer": {
+      "ver": "1.0.6",
+      "uuid": "32057237-317d-41ec-b02e-06169e7b43c0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4b615ba5-b30d-4b08-a51f-0b6343400b05",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 384,
+      "height": 305,
+      "rawWidth": 384,
+      "rawHeight": 305,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
