@@ -17,44 +17,59 @@
       "ten.mp3"
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "eleven",
       "eleven.png",
-      "eleven.mp3"
+      "thirteen.png",
+      "eleven.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "twelve",
       "twelve.png",
-      "twelve.mp3"
+      "fourteen.png",
+      "twelve.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "thirteen",
       "thirteen.png",
-      "thirteen.mp3"
+      "fifteen.png",
+      "thirteen.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "fourteen",
       "fourteen.png",
-      "fourteen.mp3"
+      "eleven.png",
+      "fourteen.mp3",
+      ""
     ],
     [
-      "writeword",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "fifteen",
       "fifteen.png",
-      "fifteen.mp3"
+      "twelve.png",
+      "fifteen.mp3",
+      ""
     ],
     [
       "quizliteracy",
