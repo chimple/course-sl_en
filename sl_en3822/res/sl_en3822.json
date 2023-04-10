@@ -72,7 +72,7 @@
       "Description",
       "LEGIT",
       "Light",
-      "seesaw_up.png",
+      "seesawup.png",
       "seesaw_down.png",
       "light.mp3",
       "abcdefghijklmnopqrstuvwxyz"
@@ -83,7 +83,7 @@
       "Description",
       "LEGIT",
       "Heavy",
-      "seesawdown.png",
+      "seesaw_down.png",
       "seesawup.png",
       "heavy.mp3",
       "abcdefghijklmnopqrstuvwxyz"
@@ -121,7 +121,7 @@
       "soundonly_image",
       "heavy_bottle.png",
       "light_bottle.png",
-      "glass.png",
+      "half_glass.png",
       "heavy_bottle.png",
       "",
       "",
