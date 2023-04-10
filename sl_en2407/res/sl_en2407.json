@@ -1,7 +1,7 @@
 {
   "rows": [
     [
-      "openwindow",
+      "openwindow1",
       "1",
       "Description",
       "LEGIT",
@@ -12,7 +12,7 @@
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
-      "openwindow",
+      "openwindow1",
       "1",
       "Description",
       "LEGIT",
@@ -23,7 +23,7 @@
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
-      "openwindow",
+      "openwindow1",
       "1",
       "Description",
       "LEGIT",
@@ -34,7 +34,7 @@
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
-      "openwindow",
+      "openwindow1",
       "1",
       "Description",
       "LEGIT",
@@ -45,7 +45,7 @@
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
-      "openwindow",
+      "openwindow1",
       "1",
       "Description",
       "LEGIT",
@@ -56,24 +56,24 @@
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
-      "openwindow",
+      "openwindow1",
       "1",
       "Description",
       "LEGIT",
       "brother",
       "brother.png",
-      "sister.png",
+      "girl_sister.png",
       "brother.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
-      "openwindow",
+      "openwindow1",
       "1",
       "Description",
       "LEGIT",
       "sister",
       "sister.png",
-      "brother.png",
+      "boy_brother.png",
       "sister.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],

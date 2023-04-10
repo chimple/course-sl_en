@@ -15,7 +15,7 @@
       "fillblank",
       "1",
       "Description",
-      "The boy is [between] Dev and Lily.",
+      "The boy is in [between] Dave and Lily.",
       "The_boy_is_between_Dev_and_Lily.mp3",
       "behind",
       "next to",
@@ -176,7 +176,7 @@
       "between",
       "in front of",
       "",
-      "The boy is _______ Dev and Lily.",
+      "The boy is in _______ Dave and Lily.",
       "The_boy_is_between_Dev_and_Lily.mp3"
     ],
     [

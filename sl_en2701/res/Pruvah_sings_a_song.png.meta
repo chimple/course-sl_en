@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "058ace33-f7b1-4962-92a9-4244e76eb938",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 384,
+  "height": 254,
+  "platformSettings": {},
+  "subMetas": {
+    "Pruvah_sings_a_song": {
+      "ver": "1.0.6",
+      "uuid": "61c27d62-e3e8-4d11-9db8-a47759d50ffe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "058ace33-f7b1-4962-92a9-4244e76eb938",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 384,
+      "height": 254,
+      "rawWidth": 384,
+      "rawHeight": 254,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -6,7 +6,7 @@
       "Description",
       "John/eats/fast",
       "",
-      "I_eat.jpg",
+      "I_eat.png",
       "John_eats_fast.mp3"
     ],
     [
@@ -33,7 +33,7 @@
       "Description",
       "Paul/screams/loudly",
       "",
-      "Rahulscreamsloudly.jpg",
+      "Paulscreamsloudly.jpg",
       "Paul_screams_loudly.mp3"
     ],
     [
@@ -96,7 +96,7 @@
       "Description",
       "The motorbike/is/fast",
       "slow",
-      "The_truckcarriesthings.jpg",
+      "motorbike.png",
       "The_motorbike_is_fast.mp3"
     ],
     [
@@ -148,8 +148,8 @@
       "slowly",
       "quickly",
       "",
-      "Maya screams _______.",
-      "Maya_screams_loudly.mp3"
+      "Mabinty screams _______.",
+      "Mabinty_screams_loudly.mp3"
     ],
     [
       "quizliteracy",

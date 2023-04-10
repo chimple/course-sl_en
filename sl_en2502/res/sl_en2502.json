@@ -47,7 +47,7 @@
       "run",
       "",
       "Choose the Pronoun",
-      "Choose_the_right_one.mp3"
+      "choose_the_pronoun.mp3"
     ],
     [
       "quizliteracy",
@@ -60,17 +60,17 @@
       "you",
       "",
       "Choose the Pronoun",
-      "Choose_the_right_one.mp3"
+      "choose_the_pronoun.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "sentence_sentence",
-      "You are too dirty!",
+      "Mother says you are too dirty!!",
       "Now I like to wash!",
       "I don't want to wash!",
-      "You are too dirty!",
+      "Mother says you are too dirty!",
       "",
       "",
       "mother_says_you_are_too_dirty.mp3"
@@ -94,7 +94,7 @@
       "Description",
       "sentence_sentence",
       "You",
-      "Anand",
+      "Lamin",
       "John",
       "You",
       "",

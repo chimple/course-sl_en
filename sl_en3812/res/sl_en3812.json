@@ -72,7 +72,7 @@
       "green_caterpillar.png",
       "The_green_caterpillar_is_shorter.mp3",
       "The blue pencil is shorter.",
-      "The_blue_pencil_is_short.mp3",
+      "blue_pencil.png",
       "The_blue_pencil_is_shorter.mp3"
     ],
     [
@@ -96,7 +96,7 @@
       "Description",
       "S",
       "The red pencil is longer.",
-      "The_blue_pencil_is_short.mp3",
+      "blue_pencil.png",
       "The_red_pencil_is_longer.mp3",
       "The red ladder is taller.",
       "red_ladder.png",
@@ -114,7 +114,7 @@
       "The man is taller than the boy.",
       "The red ladder is taller.",
       "The orange caterpillar is longer.",
-      "Blue_taller.png",
+      "man_taller.png",
       "",
       "The_man_is_taller_than_the_boy.mp3"
     ],
@@ -127,7 +127,7 @@
       "The orange caterpillar is longer.",
       "The bottle is taller than the can.",
       "The red ladder is taller.",
-      "boy_taller.png",
+      "taller_bottle.png",
       "",
       "The_bottle_is_taller_than_the_can.mp3"
     ],
@@ -140,7 +140,7 @@
       "The branch at bottom is shorter.",
       "The blue glass is taller than the red glass.",
       "The red pencil is longer.",
-      "green_caterpillar.png",
+      "blue_pencil.png",
       "",
       "The_red_pencil_is_longer.mp3"
     ]

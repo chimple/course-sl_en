@@ -4,111 +4,111 @@
       "createsentence",
       "1",
       "Description",
-      "Aarthi/is/a girl",
+      "Megan/is/a girl",
       "",
-      "aartiisa_girl.jpg",
-      "Aarthi_is_a_girl.mp3"
+      "aartiisa_girl.png",
+      "Megan_is_a_girl.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Manju/is/a student",
+      "Omar/is/a student",
       "",
-      "Jerryreadsa_bookat_school.jpg",
-      "Manju_is_a_student.mp3"
+      "Jerryreadsa_bookat_school.png",
+      "Omar_is_a_student.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Ram/is/tall",
+      "Edward/is/tall",
       "",
-      "Chrisisa_tallboy.jpg",
-      "Ram_is_tall.mp3"
+      "Chrisisa_tallboy.png",
+      "Edward_is_tall.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Rita/has/a sister",
+      "Pruvah/has/a sister",
       "",
-      "Pruvahsister.jpg",
-      "Rita_has_a_sister.mp3"
+      "Pruvahsister.png",
+      "Pruvah_has_a_sister.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Rahim/is/a boy",
+      "Amadu/is/a boy",
       "",
-      "Johnisa_boy.jpg",
-      "Rahim_is_a_boy.mp3"
+      "Johnisa_boy.png",
+      "Amadu_is_a_boy.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "sentence_sentence",
-      "Aarthi",
-      "Aarthi",
-      "Rita",
-      "Ram",
+      "Megan",
+      "Megan",
+      "Pruvah",
+      "Edward",
       "",
       "____ is a girl.",
-      "Aarthi_is_a_girl.mp3"
+      "Megan_is_a_girl.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "sentence_sentence",
-      "Manju",
-      "Rita",
-      "Aarthi",
-      "Manju",
+      "Omar",
+      "Pruvah",
+      "Megan",
+      "Omar",
       "",
       "__ is a student.",
-      "Manju_is_a_student.mp3"
+      "Omar_is_a_student.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "sentence_sentence",
-      "Ram",
-      "Rita",
-      "Ram",
-      "Aarthi",
+      "Edward",
+      "Pruvah",
+      "Edward",
+      "Megan",
       "",
       "____ is tall.",
-      "Ram_is_tall.mp3"
+      "Edward_is_tall.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_sentence",
-      "Rita has a sister.",
-      "Ram is tall.",
-      "Aarthi is a girl.",
-      "Rita has a sister.",
-      "Pruvahsister.jpg",
+      "Pruvah has a sister.",
+      "Edward is tall.",
+      "Megan is a girl.",
+      "Pruvah has a sister.",
+      "Pruvahsister.png",
       "",
-      "Rita_has_a_sister.mp3"
+      "Pruvah_has_a_sister.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_sentence",
-      "Rahim is a boy.",
-      "Rahim is a boy.",
-      "Rita is a sister.",
-      "Ram is tall.",
-      "Johnisa_boy.jpg",
+      "Amadu is a boy.",
+      "Amadu is a boy.",
+      "Pruvah is a sister.",
+      "Edward is tall.",
+      "Johnisa_boy.png",
       "",
-      "Rahim_is_a_boy.mp3"
+      "Amadu_is_a_boy.mp3"
     ]
   ]
 }

@@ -6,26 +6,26 @@
       "Description",
       "Binta/eats/an apple/every day",
       "",
-      "Maryeatsan_appleevery_day.jpg",
+      "Maryeatsan_appleevery_day.png",
       "Binta_eats_an_apple_everyday.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Jaya/reads/a book/at school",
+      "Sampa/reads/a book/at school",
       "",
-      "jaya_reads_book_at_school.jpg",
-      "jaya_reads_book_at_school.mp3"
+      "Sampa_reads_book_at_school.png",
+      "Sampa_reads_book_at_school.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Ravi/plays/a game/alone",
+      "Foday/plays/a game/alone",
       "",
-      "Raviplaysa_gamealone.jpg",
-      "ravi_plays_a_game_alone.mp3"
+      "Fodayplaysa_gamealone.png",
+      "Foday_plays_a_game_alone.mp3"
     ],
     [
       "createsentence",
@@ -33,17 +33,17 @@
       "Description",
       "They/sell/milk/together",
       "",
-      "theysellmilktogether.jpg",
+      "theysellmilktogether1.png",
       "they_sell_milk_together.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "Ramesh/drinks/milk/every day",
+      "Edward/drinks/milk/every day",
       "",
-      "The_milkisdelicious.jpg",
-      "ramesh_drinks_milk_everyday.mp3"
+      "The_milkisdelicious.png",
+      "Edwardesh_drinks_milk_everyday.mp3"
     ],
     [
       "createsentence",
@@ -51,7 +51,7 @@
       "Description",
       "The/frogs/make/noise/every night",
       "",
-      "Thefrogsmakenoiseevery_night.jpg",
+      "Thefrogsmakenoiseevery_night.png",
       "the_frogs_make_noise_everynight.mp3"
     ],
     [
@@ -129,7 +129,7 @@
       "The frogs are silent.",
       "The birds make noise every night.",
       "The frogs make noise every night.",
-      "Thefrogsmakenoiseevery_night.jpg",
+      "Thefrogsmakenoiseevery_night.png",
       "",
       "the_frogs_make_noise_everynight.mp3"
     ],

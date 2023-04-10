@@ -6,8 +6,8 @@
       "Description",
       "LEGIT",
       "2 o'clock",
-      "2oclock.png",
-      "8oclock.png",
+      "2 o'clock.png",
+      "8 o'clock.png",
       "2 o'clock.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -17,8 +17,8 @@
       "Description",
       "LEGIT",
       "10 o'clock",
-      "10oclock.png",
-      "11oclock.png",
+      "10 o'clock.png",
+      "11 o'clock.png",
       "10 o'clock.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -28,8 +28,8 @@
       "Description",
       "LEGIT",
       "3 o'clock",
-      "3oclock.png",
-      "1oclock.png",
+      "3 o'clock.png",
+      "1 o'clock.png",
       "3 o'clock.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -39,8 +39,8 @@
       "Description",
       "LEGIT",
       "7 o'clock",
-      "7oclock.png",
-      "5oclock.png",
+      "7 o'clock.png",
+      "5 o'clock.png",
       "7 o'clock.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -50,8 +50,8 @@
       "Description",
       "LEGIT",
       "8 o'clock",
-      "8oclock.png",
-      "9oclock.png",
+      "8 o'clock.png",
+      "9 o'clock.png",
       "8 o'clock.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -61,8 +61,8 @@
       "Description",
       "LEGIT",
       "6 o'clock",
-      "6oclock.png",
-      "7oclock.png",
+      "6 o'clock.png",
+      "7 o'clock.png",
       "6 o'clock.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -72,8 +72,8 @@
       "Description",
       "LEGIT",
       "5 o'clock",
-      "5oclock.png",
-      "7oclock.png",
+      "5 o'clock.png",
+      "7 o'clock.png",
       "5 o'clock.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -83,8 +83,8 @@
       "Description",
       "LEGIT",
       "4 o'clock",
-      "3oclock.png",
-      "2oclock.png",
+      "4 o'clock.png",
+      "3 o'clock.png",
       "4 o'clock.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -97,8 +97,8 @@
       "2 o'clock",
       "6 o'clock",
       "3 o'clock",
-      "2oclock.png",
-      "",
+      ".png",
+      "2 o'clock",
       "2 o'clock.mp3"
     ],
     [
@@ -106,10 +106,10 @@
       "1",
       "Description",
       "soundonly_image",
-      "7oclock.png",
-      "5oclock.png",
-      "7oclock.png",
-      "10oclock.png",
+      "7 o'clock.png",
+      "5 o'clock.png",
+      "7 o'clock.png",
+      "10 o'clock.png",
       "",
       "",
       "7 o'clock.mp3"
@@ -123,8 +123,8 @@
       "6 o'clock",
       "2 o'clock",
       "3 o'clock",
-      "3oclock.png",
-      "",
+      ".png",
+      "3 o'clock",
       "3 o'clock.mp3"
     ]
   ]

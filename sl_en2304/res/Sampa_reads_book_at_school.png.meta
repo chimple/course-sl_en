@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "605f287e-44d2-45c9-9bd5-3ea607ba7ea8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "Sampa_reads_book_at_school": {
+      "ver": "1.0.6",
+      "uuid": "9b6155e7-c934-4b09-8115-c04f366cef1b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "605f287e-44d2-45c9-9bd5-3ea607ba7ea8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
