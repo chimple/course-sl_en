@@ -6,7 +6,7 @@
       "Description",
       "Binta/eats/an apple/every day",
       "",
-      "Maryeatsan_appleevery_day.jpg",
+      "Maryeatsan_appleevery_day.png",
       "Binta_eats_an_apple_everyday.mp3"
     ],
     [
@@ -42,7 +42,7 @@
       "Description",
       "Edwardesh/drinks/milk/every day",
       "",
-      "The_milkisdelicious.jpg",
+      "The_milkisdelicious.png",
       "Edwardesh_drinks_milk_everyday.mp3"
     ],
     [
@@ -51,7 +51,7 @@
       "Description",
       "The/frogs/make/noise/every night",
       "",
-      "Thefrogsmakenoiseevery_night.jpg",
+      "Thefrogsmakenoiseevery_night.png",
       "the_frogs_make_noise_everynight.mp3"
     ],
     [
@@ -129,7 +129,7 @@
       "The frogs are silent.",
       "The birds make noise every night.",
       "The frogs make noise every night.",
-      "Thefrogsmakenoiseevery_night.jpg",
+      "Thefrogsmakenoiseevery_night.png",
       "",
       "the_frogs_make_noise_everynight.mp3"
     ],
