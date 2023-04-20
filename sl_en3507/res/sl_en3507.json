@@ -1,81 +1,81 @@
 {
   "rows": [
     [
-      "spelldoor",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "fortieth",
-      "***tieth",
-      "4",
-      "2",
       "fortieth.png",
-      "fortieth.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "fiftieth",
-      "***tieth",
-      "4",
-      "2",
-      "fiftieth.png",
-      "fiftieth.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "sixtieth",
-      "six*****",
-      "4",
-      "2",
-      "sixtieth.png",
-      "sixtieth.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "seventieth",
-      "sevent****",
-      "4",
-      "2",
       "seventieth.png",
-      "seventieth.mp3"
+      "fortieth.mp3",
+      ""
     ],
     [
-      "spelldoor",
+      "openwindow1",
       "1",
       "Description",
-      "eightieth",
-      "eight****",
-      "4",
-      "2",
-      "eightieth.png",
-      "eightieth.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ninetieth",
-      "****tieth",
-      "4",
-      "2",
+      "LEGIT",
+      "fiftieth",
+      "fiftieth.png",
       "ninetieth.png",
-      "ninetieth.mp3"
+      "fiftieth.mp3",
+      ""
     ],
     [
-      "spelldoor",
+      "openwindow1",
       "1",
       "Description",
-      "hundredth",
-      "***dredth",
-      "4",
-      "2",
+      "LEGIT",
+      "sixtieth",
+      "sixtieth.png",
+      "seventieth.png",
+      "sixtieth.mp3",
+      ""
+    ],
+    [
+      "openwindow1",
+      "1",
+      "Description",
+      "LEGIT",
+      "seventieth",
+      "seventieth.png",
+      "fortieth.png",
+      "seventieth.mp3",
+      ""
+    ],
+    [
+      "openwindow1",
+      "1",
+      "Description",
+      "LEGIT",
+      "eightieth",
+      "eightieth.png",
       "hundredth.png",
-      "hundredth.mp3"
+      "eightieth.mp3",
+      ""
+    ],
+    [
+      "openwindow1",
+      "1",
+      "Description",
+      "LEGIT",
+      "ninetieth",
+      "ninetieth.png",
+      "eightieth.png",
+      "ninetieth.mp3",
+      ""
+    ],
+    [
+      "openwindow1",
+      "1",
+      "Description",
+      "LEGIT",
+      "hundredth",
+      "hundredth.png",
+      "sixtieth.png",
+      "hundredth.mp3",
+      ""
     ],
     [
       "quizliteracy",

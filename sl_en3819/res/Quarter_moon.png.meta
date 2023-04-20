@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "62224700-9470-43b5-acbe-0f43a094d134",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 394,
+  "platformSettings": {},
+  "subMetas": {
+    "Quarter_moon": {
+      "ver": "1.0.6",
+      "uuid": "a0d240d5-cf80-434b-9a87-50cb7a56bb79",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "62224700-9470-43b5-acbe-0f43a094d134",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 394,
+      "rawWidth": 512,
+      "rawHeight": 394,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
