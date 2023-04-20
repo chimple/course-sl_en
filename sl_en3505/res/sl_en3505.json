@@ -1,81 +1,81 @@
 {
   "rows": [
     [
-      "spelldoor",
+      "openwindow1",
       "1",
       "Description",
+      "LEGIT",
       "eighth",
-      "**ghth",
-      "4",
-      "2",
       "eighth.png",
-      "eight.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ninth",
-      "nin**",
-      "4",
-      "2",
-      "ninth.png",
-      "ninth.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "tenth",
-      "**nth",
-      "4",
-      "2",
       "tenth.png",
-      "tenth.mp3"
+      "eight.mp3",
+      ""
     ],
     [
-      "spelldoor",
+      "openwindow1",
       "1",
       "Description",
-      "eleventh",
-      "***venth",
-      "4",
-      "2",
-      "eleventh.png",
-      "eleventh.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "twelfth",
-      "twel***",
-      "4",
-      "2",
+      "LEGIT",
+      "ninth",
+      "ninth.png",
       "twelfth.png",
-      "twelfth.mp3"
+      "ninth.mp3",
+      ""
     ],
     [
-      "spelldoor",
+      "openwindow1",
       "1",
       "Description",
-      "thirteenth",
-      "****teenth",
-      "4",
-      "2",
-      "thirteenth.png",
-      "thirteenth.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "fourteenth",
-      "fourte****",
-      "4",
-      "2",
+      "LEGIT",
+      "tenth",
+      "tenth.png",
       "fourteenth.png",
-      "fourteenth.mp3"
+      "tenth.mp3",
+      ""
+    ],
+    [
+      "openwindow1",
+      "1",
+      "Description",
+      "LEGIT",
+      "eleventh",
+      "eleventh.png",
+      "tenth.png",
+      "eleventh.mp3",
+      ""
+    ],
+    [
+      "openwindow1",
+      "1",
+      "Description",
+      "LEGIT",
+      "twelfth",
+      "twelfth.png",
+      "eighth.png",
+      "twelfth.mp3",
+      ""
+    ],
+    [
+      "openwindow1",
+      "1",
+      "Description",
+      "LEGIT",
+      "thirteenth",
+      "thirteenth.png",
+      "eleventh.png",
+      "thirteenth.mp3",
+      ""
+    ],
+    [
+      "openwindow1",
+      "1",
+      "Description",
+      "LEGIT",
+      "fourteenth",
+      "fourteenth.png",
+      "tenth.png",
+      "fourteenth.mp3",
+      ""
     ],
     [
       "quizliteracy",
