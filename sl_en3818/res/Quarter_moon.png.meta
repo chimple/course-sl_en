@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "0ba8d782-1fc5-4a87-8dc1-498e80629e7c",
+  "uuid": "c835f2f3-15c0-439d-93aa-63693f728a64",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -9,14 +9,14 @@
   "genMipmaps": false,
   "packable": true,
   "width": 512,
-  "height": 512,
+  "height": 394,
   "platformSettings": {},
   "subMetas": {
-    "Three_fourth_pizza ": {
+    "Quarter_moon": {
       "ver": "1.0.6",
-      "uuid": "1dafc35a-2427-481f-b4a9-b441ba73bb87",
+      "uuid": "42bdcd07-19c9-4e2b-b6e2-9b25c1c7fc11",
       "importer": "sprite-frame",
-      "rawTextureUuid": "0ba8d782-1fc5-4a87-8dc1-498e80629e7c",
+      "rawTextureUuid": "c835f2f3-15c0-439d-93aa-63693f728a64",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -25,9 +25,9 @@
       "trimX": 0,
       "trimY": 0,
       "width": 512,
-      "height": 512,
+      "height": 394,
       "rawWidth": 512,
-      "rawHeight": 512,
+      "rawHeight": 394,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

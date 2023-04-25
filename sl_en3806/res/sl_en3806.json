@@ -7,7 +7,7 @@
       "LEGIT",
       "more",
       "bucket.png",
-      "half_full_glass.png",
+      "half_glass.png",
       "more.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -72,8 +72,8 @@
       "Description",
       "LEGIT",
       "less",
-      "bigbag.png",
       "smallbag.png",
+      "bigbag.png",
       "less.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
@@ -95,10 +95,10 @@
       "1",
       "Description",
       "soundonly_image",
-      
       "half_glass.png",
       "tub.png",
       "bigbottle.png",
+      "half_glass.png",
       "",
       "",
       "less.mp3"
