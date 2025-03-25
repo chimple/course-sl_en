@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "3cc8b15e-c7ce-4f82-9a3b-bced31745a9a",
+  "uuid": "949ee5bd-45fb-4580-a9ea-ddb8533fcf1b",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "tallwoman ": {
       "ver": "1.0.6",
-      "uuid": "cc8975e6-3635-46a3-bafe-8634a5bbf05c",
+      "uuid": "fc4aa557-9a10-4e63-951a-227f0073ea13",
       "importer": "sprite-frame",
-      "rawTextureUuid": "3cc8b15e-c7ce-4f82-9a3b-bced31745a9a",
+      "rawTextureUuid": "949ee5bd-45fb-4580-a9ea-ddb8533fcf1b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

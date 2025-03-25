@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "46e93f0f-4452-4df3-9e53-943e39cb09d8",
+  "uuid": "87ffcd6f-6283-4eaf-b40f-5103ef42a139",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Half_moon": {
       "ver": "1.0.6",
-      "uuid": "6b509d1c-ff07-4bc6-b062-7d2486a598a1",
+      "uuid": "342d3b08-d0de-4ca6-97e0-2623dddfcb7b",
       "importer": "sprite-frame",
-      "rawTextureUuid": "46e93f0f-4452-4df3-9e53-943e39cb09d8",
+      "rawTextureUuid": "87ffcd6f-6283-4eaf-b40f-5103ef42a139",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

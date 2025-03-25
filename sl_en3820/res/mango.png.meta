@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "5d207ccd-c371-4638-850e-17cbcc7ab19e",
+  "uuid": "2f7727e0-b90c-48f7-aff4-79659693ada0",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "mango": {
       "ver": "1.0.6",
-      "uuid": "e7ebafe1-4641-41a2-bca7-f943cb0d3168",
+      "uuid": "2ac09ba9-2c03-415a-9889-9245a9690512",
       "importer": "sprite-frame",
-      "rawTextureUuid": "5d207ccd-c371-4638-850e-17cbcc7ab19e",
+      "rawTextureUuid": "2f7727e0-b90c-48f7-aff4-79659693ada0",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

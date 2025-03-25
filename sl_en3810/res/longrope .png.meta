@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "3606a7d4-f0f8-4b1b-aede-0912f826aa57",
+  "uuid": "962da575-a9f7-4145-a7de-31678dc480f1",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "longrope ": {
       "ver": "1.0.6",
-      "uuid": "b7b7b8b3-7cb5-4c15-9658-01952e3b8dd4",
+      "uuid": "dedb4270-52f7-467f-8f32-eda2c01ac1b6",
       "importer": "sprite-frame",
-      "rawTextureUuid": "3606a7d4-f0f8-4b1b-aede-0912f826aa57",
+      "rawTextureUuid": "962da575-a9f7-4145-a7de-31678dc480f1",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

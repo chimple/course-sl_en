@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "dc0289ba-5f0f-4620-a849-c7730f5e9d3e",
+  "uuid": "f0d4515f-4187-4958-8a2c-6ef8e72add92",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "heaviest_elephant": {
       "ver": "1.0.6",
-      "uuid": "1d8308aa-8e2d-4de6-8cca-1891c604747a",
+      "uuid": "f1fcd3c1-875e-4bbf-9bbb-d0463bbab1d5",
       "importer": "sprite-frame",
-      "rawTextureUuid": "dc0289ba-5f0f-4620-a849-c7730f5e9d3e",
+      "rawTextureUuid": "f0d4515f-4187-4958-8a2c-6ef8e72add92",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

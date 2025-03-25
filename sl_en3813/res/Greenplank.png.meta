@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "e071e170-4d26-48f8-9037-f052750748c7",
+  "uuid": "606bef14-5b83-4713-869f-67a1b307cfda",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Greenplank": {
       "ver": "1.0.6",
-      "uuid": "d7c9b0d2-026d-41c9-b203-57b862f51686",
+      "uuid": "37126190-1b10-4a38-bc1f-4b45c2ef5d70",
       "importer": "sprite-frame",
-      "rawTextureUuid": "e071e170-4d26-48f8-9037-f052750748c7",
+      "rawTextureUuid": "606bef14-5b83-4713-869f-67a1b307cfda",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

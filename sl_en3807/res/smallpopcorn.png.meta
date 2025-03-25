@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "46a60ecf-9fbb-4385-8b4c-21b7e9e37d05",
+  "uuid": "2cd68bf4-1708-46d1-aa3f-7a22460998e4",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "smallpopcorn": {
       "ver": "1.0.6",
-      "uuid": "69b2c9ca-fffb-4667-abcd-9485d7a42a70",
+      "uuid": "3f70d4f0-e4e4-4fe9-a4b4-85c53d614bbb",
       "importer": "sprite-frame",
-      "rawTextureUuid": "46a60ecf-9fbb-4385-8b4c-21b7e9e37d05",
+      "rawTextureUuid": "2cd68bf4-1708-46d1-aa3f-7a22460998e4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

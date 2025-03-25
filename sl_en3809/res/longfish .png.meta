@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "ca717d88-f9a8-4982-a1da-e6b4a449c60e",
+  "uuid": "4042d321-5727-4230-a878-5f0e54090957",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "longfish ": {
       "ver": "1.0.6",
-      "uuid": "1ad00188-6442-4ee4-bcd1-2fe588313aae",
+      "uuid": "b9963412-9598-45bd-9ccf-29d7b268663c",
       "importer": "sprite-frame",
-      "rawTextureUuid": "ca717d88-f9a8-4982-a1da-e6b4a449c60e",
+      "rawTextureUuid": "4042d321-5727-4230-a878-5f0e54090957",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

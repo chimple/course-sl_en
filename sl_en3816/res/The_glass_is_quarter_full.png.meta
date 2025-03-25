@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "9a2ec86f-673a-4309-8c0c-f634c287239c",
+  "uuid": "dc220e62-5d4e-4622-98ae-9da35fe5741b",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "The_glass_is_quarter_full": {
       "ver": "1.0.6",
-      "uuid": "449bf087-a081-4b6a-a3ee-51686916cead",
+      "uuid": "22d8b811-a0bc-4e92-84a3-f79d46d26462",
       "importer": "sprite-frame",
-      "rawTextureUuid": "9a2ec86f-673a-4309-8c0c-f634c287239c",
+      "rawTextureUuid": "dc220e62-5d4e-4622-98ae-9da35fe5741b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

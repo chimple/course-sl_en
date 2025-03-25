@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "738ef268-f3e1-46c3-b682-72a509e453ae",
+  "uuid": "f66b6b6b-9e1a-4ea4-a95b-e2824c61aed2",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,11 +12,11 @@
   "height": 256,
   "platformSettings": {},
   "subMetas": {
-    "be_safe_on_road ": {
+    "be_safe_on_road": {
       "ver": "1.0.6",
-      "uuid": "4acb601d-5212-4054-8f89-0472857afd51",
+      "uuid": "37dabf3d-e8e0-4d5a-a6cc-e26876432ee2",
       "importer": "sprite-frame",
-      "rawTextureUuid": "738ef268-f3e1-46c3-b682-72a509e453ae",
+      "rawTextureUuid": "f66b6b6b-9e1a-4ea4-a95b-e2824c61aed2",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

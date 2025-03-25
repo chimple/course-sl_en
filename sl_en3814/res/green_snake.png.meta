@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "ad98805a-0a8c-4943-9c0c-676c57fa18ba",
+  "uuid": "69bf829a-4f36-44a6-9f9f-970e9a40166d",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "green_snake": {
       "ver": "1.0.6",
-      "uuid": "d12aadf6-df24-452d-9fdf-0d2b4d3aa7d5",
+      "uuid": "31f218d2-5b86-4e4f-84a1-519b31ff3cb3",
       "importer": "sprite-frame",
-      "rawTextureUuid": "ad98805a-0a8c-4943-9c0c-676c57fa18ba",
+      "rawTextureUuid": "69bf829a-4f36-44a6-9f9f-970e9a40166d",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

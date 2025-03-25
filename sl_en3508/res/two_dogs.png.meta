@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "b773e47b-7277-4852-b40a-5206b3071435",
+  "uuid": "86a9b8a5-daef-456a-b5f5-e48f8e9afb49",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "two_dogs": {
       "ver": "1.0.6",
-      "uuid": "32e7064f-88f0-4f25-8535-1fc1f1bf29fd",
+      "uuid": "6271d090-aaaa-4480-9c45-14717c5b0dc1",
       "importer": "sprite-frame",
-      "rawTextureUuid": "b773e47b-7277-4852-b40a-5206b3071435",
+      "rawTextureUuid": "86a9b8a5-daef-456a-b5f5-e48f8e9afb49",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

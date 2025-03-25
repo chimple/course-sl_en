@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "be97421d-3e3e-44c7-a504-b13e4db7b691",
+  "uuid": "f7359b44-b7fe-4aae-8cbd-b876d563273b",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,11 +12,11 @@
   "height": 230,
   "platformSettings": {},
   "subMetas": {
-    "eat_your_food_neatly ": {
+    "eat_your_food_neatly": {
       "ver": "1.0.6",
-      "uuid": "949973b1-2f23-4279-bad8-51bc476b93e7",
+      "uuid": "868249f1-0b3e-4402-92f6-4e18e9a93d43",
       "importer": "sprite-frame",
-      "rawTextureUuid": "be97421d-3e3e-44c7-a504-b13e4db7b691",
+      "rawTextureUuid": "f7359b44-b7fe-4aae-8cbd-b876d563273b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

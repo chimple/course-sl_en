@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "76f7c410-3b9a-436f-ab01-5e6f4e7c68e4",
+  "uuid": "f3a93c18-e66c-400d-95ce-3a870c4327e8",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "veryshorthair ": {
       "ver": "1.0.6",
-      "uuid": "ec9d5e51-e2ba-4d81-a0f6-8255f5c376f4",
+      "uuid": "48ad4b8d-8cc7-44a7-8b13-8e89d7a2baed",
       "importer": "sprite-frame",
-      "rawTextureUuid": "76f7c410-3b9a-436f-ab01-5e6f4e7c68e4",
+      "rawTextureUuid": "f3a93c18-e66c-400d-95ce-3a870c4327e8",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

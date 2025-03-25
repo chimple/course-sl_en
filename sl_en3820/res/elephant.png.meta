@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "f1307b88-84e6-41ac-ba5f-70f06e4575e8",
+  "uuid": "6cfda652-2087-477d-82d6-aea44a8f819c",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "elephant": {
       "ver": "1.0.6",
-      "uuid": "32b93be0-1be9-4ddd-9e30-8997643ad8be",
+      "uuid": "e9204914-09a9-4f35-94ee-d798ecf51514",
       "importer": "sprite-frame",
-      "rawTextureUuid": "f1307b88-84e6-41ac-ba5f-70f06e4575e8",
+      "rawTextureUuid": "6cfda652-2087-477d-82d6-aea44a8f819c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

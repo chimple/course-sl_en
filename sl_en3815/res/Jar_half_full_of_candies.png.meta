@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "c9b76c3b-bd57-4129-a063-f7464523ffbb",
+  "uuid": "2dbbb0aa-d1ff-4209-bd7c-4f7f7dad177d",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Jar_half_full_of_candies": {
       "ver": "1.0.6",
-      "uuid": "79f2d232-369f-4e00-b8f5-cb986543f113",
+      "uuid": "996cd834-19bc-4f64-9f2d-25fe86219259",
       "importer": "sprite-frame",
-      "rawTextureUuid": "c9b76c3b-bd57-4129-a063-f7464523ffbb",
+      "rawTextureUuid": "2dbbb0aa-d1ff-4209-bd7c-4f7f7dad177d",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

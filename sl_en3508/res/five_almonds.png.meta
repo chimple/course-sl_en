@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "dc37bf09-48f0-48f2-8f23-d1e4ef072ab7",
+  "uuid": "e6dd89a6-d3dd-4539-be64-f7538b54ba21",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "five_almonds": {
       "ver": "1.0.6",
-      "uuid": "1a4f9008-9943-476d-89f4-5fdaf1076213",
+      "uuid": "c6739474-f702-47f8-a9d0-4b12a5c9fbfe",
       "importer": "sprite-frame",
-      "rawTextureUuid": "dc37bf09-48f0-48f2-8f23-d1e4ef072ab7",
+      "rawTextureUuid": "e6dd89a6-d3dd-4539-be64-f7538b54ba21",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

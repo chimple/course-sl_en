@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "25c38575-b841-4bf9-9cb7-595652a6b72a",
+  "uuid": "36eee830-66d8-41d9-bd0a-f270cb82a8c7",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "bigpopcorn": {
       "ver": "1.0.6",
-      "uuid": "2f22210d-4202-4c33-b53b-6b17fae7e046",
+      "uuid": "041d9289-5017-4dee-8555-35daf1071368",
       "importer": "sprite-frame",
-      "rawTextureUuid": "25c38575-b841-4bf9-9cb7-595652a6b72a",
+      "rawTextureUuid": "36eee830-66d8-41d9-bd0a-f270cb82a8c7",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

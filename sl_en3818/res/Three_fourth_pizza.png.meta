@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "0ba8d782-1fc5-4a87-8dc1-498e80629e7c",
+  "uuid": "6e7339e0-da2d-4a0f-bd24-e68a4326bbe4",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Three_fourth_pizza": {
       "ver": "1.0.6",
-      "uuid": "1dafc35a-2427-481f-b4a9-b441ba73bb87",
+      "uuid": "619808de-adf7-4622-ae0e-90759ab80824",
       "importer": "sprite-frame",
-      "rawTextureUuid": "0ba8d782-1fc5-4a87-8dc1-498e80629e7c",
+      "rawTextureUuid": "6e7339e0-da2d-4a0f-bd24-e68a4326bbe4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

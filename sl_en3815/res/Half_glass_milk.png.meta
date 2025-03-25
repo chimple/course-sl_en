@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "a2838d4d-c553-4ab3-bd61-2c34f4b340fa",
+  "uuid": "ced32abc-ea3b-42e3-bf89-12b66463cce8",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Half_glass_milk": {
       "ver": "1.0.6",
-      "uuid": "1b11571a-842e-4a0b-b379-eb34bb05df52",
+      "uuid": "18a62925-1f03-478a-9487-8022c2e133dd",
       "importer": "sprite-frame",
-      "rawTextureUuid": "a2838d4d-c553-4ab3-bd61-2c34f4b340fa",
+      "rawTextureUuid": "ced32abc-ea3b-42e3-bf89-12b66463cce8",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "530730ba-e807-48b6-814f-c3774a5a448c",
+  "uuid": "a80845ca-60ca-45d2-b08a-689a3f99583c",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "brown_rope": {
       "ver": "1.0.6",
-      "uuid": "4e16d5a8-410f-4b82-9afc-305bce861926",
+      "uuid": "549e54ba-2159-4013-8b4e-63b3b9b1910e",
       "importer": "sprite-frame",
-      "rawTextureUuid": "530730ba-e807-48b6-814f-c3774a5a448c",
+      "rawTextureUuid": "a80845ca-60ca-45d2-b08a-689a3f99583c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

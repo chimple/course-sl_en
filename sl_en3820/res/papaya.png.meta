@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "a61252b9-0b9e-4901-b6e9-678cd8fc079b",
+  "uuid": "7c8b67d1-ef69-4db5-b540-631d26ebe725",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "papaya": {
       "ver": "1.0.6",
-      "uuid": "349d68fc-eddf-41d2-bb04-206b29a5ab2f",
+      "uuid": "4ac59593-d03a-4575-ada4-f339e1465294",
       "importer": "sprite-frame",
-      "rawTextureUuid": "a61252b9-0b9e-4901-b6e9-678cd8fc079b",
+      "rawTextureUuid": "7c8b67d1-ef69-4db5-b540-631d26ebe725",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

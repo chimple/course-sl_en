@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "7ff965b8-ce4a-410f-a201-17bce7129ea9",
+  "uuid": "f9bb3609-116b-4c47-9755-39165281b32d",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "five_chairs": {
       "ver": "1.0.6",
-      "uuid": "bb1a3350-9968-42ca-8620-93ab10bac9b4",
+      "uuid": "949b5508-efc6-49e9-9303-200965d4c761",
       "importer": "sprite-frame",
-      "rawTextureUuid": "7ff965b8-ce4a-410f-a201-17bce7129ea9",
+      "rawTextureUuid": "f9bb3609-116b-4c47-9755-39165281b32d",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "d45fdf74-62a1-49bf-97c3-bb8b61d609c5",
+  "uuid": "b0fd8460-5ce0-400f-832c-9dd3353e7380",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "brush_your_teeth": {
       "ver": "1.0.6",
-      "uuid": "14c426af-b6d8-4b90-9b3b-b16824f7b63f",
+      "uuid": "71f456ba-36e2-45a5-bd38-431bbf9d3fbe",
       "importer": "sprite-frame",
-      "rawTextureUuid": "d45fdf74-62a1-49bf-97c3-bb8b61d609c5",
+      "rawTextureUuid": "b0fd8460-5ce0-400f-832c-9dd3353e7380",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

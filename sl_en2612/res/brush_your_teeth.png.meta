@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "f6d6cefd-9ee1-4b39-8329-52f5e0ede259",
+  "uuid": "82510792-67fb-45d4-ba7c-b603c092c867",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,11 +12,11 @@
   "height": 220,
   "platformSettings": {},
   "subMetas": {
-    "brush_your_teeth ": {
+    "brush_your_teeth": {
       "ver": "1.0.6",
-      "uuid": "6bd5f8c2-d353-4cd0-ba09-31443efeaa39",
+      "uuid": "b4feb408-c020-4bff-b244-f22d9d59048d",
       "importer": "sprite-frame",
-      "rawTextureUuid": "f6d6cefd-9ee1-4b39-8329-52f5e0ede259",
+      "rawTextureUuid": "82510792-67fb-45d4-ba7c-b603c092c867",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

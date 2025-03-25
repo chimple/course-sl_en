@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "47864df0-8fdf-40d9-b3dd-9ed74fe52cf2",
+  "uuid": "235619d6-0ee5-43fe-ae53-6cdf9747ca76",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Half_plate_fruits": {
       "ver": "1.0.6",
-      "uuid": "a81b01ef-3b3c-4d9d-881c-9e52bf80e5d9",
+      "uuid": "680902b4-1743-4f19-a630-f94961453971",
       "importer": "sprite-frame",
-      "rawTextureUuid": "47864df0-8fdf-40d9-b3dd-9ed74fe52cf2",
+      "rawTextureUuid": "235619d6-0ee5-43fe-ae53-6cdf9747ca76",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

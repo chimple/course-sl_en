@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "5347b690-c2c8-45cd-822f-e003777eb7e0",
+  "uuid": "e5aa329b-6864-4245-b8fc-7a6951178d85",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "red_ladder": {
       "ver": "1.0.6",
-      "uuid": "1c38e466-3f4f-4d15-a299-c64b3b3a96f3",
+      "uuid": "53c10600-5cbb-44e6-888e-0d1c540564c6",
       "importer": "sprite-frame",
-      "rawTextureUuid": "5347b690-c2c8-45cd-822f-e003777eb7e0",
+      "rawTextureUuid": "e5aa329b-6864-4245-b8fc-7a6951178d85",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

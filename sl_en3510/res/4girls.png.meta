@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "01a5f242-b1f3-4cc1-bc61-59155ba25e45",
+  "uuid": "cb448cb9-2b8a-492d-91a1-9696fcc506f0",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,11 +12,11 @@
   "height": 171,
   "platformSettings": {},
   "subMetas": {
-    "4girls ": {
+    "4girls": {
       "ver": "1.0.6",
-      "uuid": "52243ad8-59b9-4e18-b19c-7dfa98aad2b7",
+      "uuid": "d6203c23-5f50-4fb2-a285-b63dc9f51ba0",
       "importer": "sprite-frame",
-      "rawTextureUuid": "01a5f242-b1f3-4cc1-bc61-59155ba25e45",
+      "rawTextureUuid": "cb448cb9-2b8a-492d-91a1-9696fcc506f0",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

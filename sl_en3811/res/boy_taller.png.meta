@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "e0c9912d-3059-498d-9920-5d5d58960408",
+  "uuid": "aabb12b3-0edd-49b7-8b58-66816a553120",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "boy_taller": {
       "ver": "1.0.6",
-      "uuid": "6c162d1c-9b77-4e87-8e0c-dba0d0c9d5ab",
+      "uuid": "e41bd61c-09e9-42c9-a510-be0e4e68d32d",
       "importer": "sprite-frame",
-      "rawTextureUuid": "e0c9912d-3059-498d-9920-5d5d58960408",
+      "rawTextureUuid": "aabb12b3-0edd-49b7-8b58-66816a553120",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

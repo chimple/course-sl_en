@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "63cadfd8-a53c-42f5-948a-b0c6715fedbf",
+  "uuid": "b4b017b6-65ad-406c-9402-6c9b6b6f5440",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "smallbasket ": {
       "ver": "1.0.6",
-      "uuid": "ac9745ca-19aa-4e2e-bee7-8873de5afc83",
+      "uuid": "dc7f9467-9f59-4e06-853f-393770e0311f",
       "importer": "sprite-frame",
-      "rawTextureUuid": "63cadfd8-a53c-42f5-948a-b0c6715fedbf",
+      "rawTextureUuid": "b4b017b6-65ad-406c-9402-6c9b6b6f5440",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "80db110c-ad77-472a-96df-0c9946aaa70b",
+  "uuid": "242ae6ac-4ecc-4e7f-a8f5-08e3f95f53ec",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "lake": {
       "ver": "1.0.6",
-      "uuid": "30e9bfda-11b8-4317-81bf-bf9c5882602e",
+      "uuid": "381371e7-15eb-43cc-9067-ac58f9d98b8c",
       "importer": "sprite-frame",
-      "rawTextureUuid": "80db110c-ad77-472a-96df-0c9946aaa70b",
+      "rawTextureUuid": "242ae6ac-4ecc-4e7f-a8f5-08e3f95f53ec",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

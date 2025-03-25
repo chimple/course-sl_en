@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "544f124c-1615-46f1-90a7-86b5ac3d8efa",
+  "uuid": "650d0d33-23f3-4919-8dfc-3e18a6ddad0b",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Half_bucket_water": {
       "ver": "1.0.6",
-      "uuid": "3f130e4d-11bb-4b53-96d0-0be0a8a61286",
+      "uuid": "5be9bc66-d46a-41a8-bba4-3b4f40dd0832",
       "importer": "sprite-frame",
-      "rawTextureUuid": "544f124c-1615-46f1-90a7-86b5ac3d8efa",
+      "rawTextureUuid": "650d0d33-23f3-4919-8dfc-3e18a6ddad0b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

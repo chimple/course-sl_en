@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "54368266-6dd6-4715-b1d7-d35a202cc721",
+  "uuid": "10512be9-6d87-4b60-82ad-1f919e471fdc",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Tub_half_filled_with_water": {
       "ver": "1.0.6",
-      "uuid": "6677be44-7f38-443c-938c-b4fae6172a08",
+      "uuid": "aaa69118-4d97-4f1f-817d-840e30ea311b",
       "importer": "sprite-frame",
-      "rawTextureUuid": "54368266-6dd6-4715-b1d7-d35a202cc721",
+      "rawTextureUuid": "10512be9-6d87-4b60-82ad-1f919e471fdc",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

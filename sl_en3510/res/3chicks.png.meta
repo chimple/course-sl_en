@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "119737ec-5f72-4c57-962c-163e8e0a98d5",
+  "uuid": "895b05d3-22ba-4d54-9804-4e917f72da02",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "3chicks": {
       "ver": "1.0.6",
-      "uuid": "2ecb434d-6b3a-4162-8b0e-254ccd6d9df3",
+      "uuid": "91e974c0-d6af-499c-9b48-950fb0390598",
       "importer": "sprite-frame",
-      "rawTextureUuid": "119737ec-5f72-4c57-962c-163e8e0a98d5",
+      "rawTextureUuid": "895b05d3-22ba-4d54-9804-4e917f72da02",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

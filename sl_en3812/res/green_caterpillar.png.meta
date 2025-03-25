@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "628aff97-d53f-47d1-bd29-de2980ea8ec8",
+  "uuid": "6e07f1ab-1ae3-4484-8329-16be0c293809",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "green_caterpillar": {
       "ver": "1.0.6",
-      "uuid": "45b6d068-5d51-4f15-aade-19ed4d875b9b",
+      "uuid": "f096b9eb-2d32-47ac-8770-7ad16d4098b8",
       "importer": "sprite-frame",
-      "rawTextureUuid": "628aff97-d53f-47d1-bd29-de2980ea8ec8",
+      "rawTextureUuid": "6e07f1ab-1ae3-4484-8329-16be0c293809",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "7001e9e6-1343-4970-a447-78a2529a109f",
+  "uuid": "cf23cbf8-a05c-4b0b-82d6-5225315ea551",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "one_lion": {
       "ver": "1.0.6",
-      "uuid": "6ec247e1-6a67-4387-9a4a-9fbfd2412e32",
+      "uuid": "0b826faa-797a-4234-9510-ad9740b8d937",
       "importer": "sprite-frame",
-      "rawTextureUuid": "7001e9e6-1343-4970-a447-78a2529a109f",
+      "rawTextureUuid": "cf23cbf8-a05c-4b0b-82d6-5225315ea551",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

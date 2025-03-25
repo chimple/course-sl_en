@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "02f3e4ef-c710-493e-bc0a-88413b49da50",
+  "uuid": "347e93d4-a73c-4bd0-bb69-4dd34748da73",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Quarter_apple": {
       "ver": "1.0.6",
-      "uuid": "0f83a014-bb41-41ce-ad3f-debe2dab9ba5",
+      "uuid": "e198ac36-78b9-4e75-9124-54b48bda6193",
       "importer": "sprite-frame",
-      "rawTextureUuid": "02f3e4ef-c710-493e-bc0a-88413b49da50",
+      "rawTextureUuid": "347e93d4-a73c-4bd0-bb69-4dd34748da73",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

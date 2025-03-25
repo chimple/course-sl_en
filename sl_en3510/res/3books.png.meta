@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "1443a842-5a7f-4694-a29f-e11e2d3d042e",
+  "uuid": "13e02be1-2ba3-4aa6-8abb-5b1a13d3112c",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,11 +12,11 @@
   "height": 222,
   "platformSettings": {},
   "subMetas": {
-    "3books ": {
+    "3books": {
       "ver": "1.0.6",
-      "uuid": "ad6e6f2a-4d4f-466e-adc9-11e4aba0e717",
+      "uuid": "d6992625-7e3f-4c4f-923a-32b16e69fad6",
       "importer": "sprite-frame",
-      "rawTextureUuid": "1443a842-5a7f-4694-a29f-e11e2d3d042e",
+      "rawTextureUuid": "13e02be1-2ba3-4aa6-8abb-5b1a13d3112c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

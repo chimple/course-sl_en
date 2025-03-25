@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "ceb55b62-ee7f-4f36-83ae-236253408adb",
+  "uuid": "ac6bfbb7-2a36-4780-a93f-c64750b9ac84",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Three_fourth_moon": {
       "ver": "1.0.6",
-      "uuid": "e8d08a39-707b-4dcb-94d0-ae485d27df9b",
+      "uuid": "11eff0c7-27c3-4c78-a9b8-ce6914bb98a2",
       "importer": "sprite-frame",
-      "rawTextureUuid": "ceb55b62-ee7f-4f36-83ae-236253408adb",
+      "rawTextureUuid": "ac6bfbb7-2a36-4780-a93f-c64750b9ac84",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

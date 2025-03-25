@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "953f4c68-4200-4454-9871-64df00e816e6",
+  "uuid": "fa0ab2b7-e41c-423a-aed6-59e11eb021ef",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Half_bag_of_rice": {
       "ver": "1.0.6",
-      "uuid": "6b4bfa70-babc-42a7-95a4-6e88bfb4eef2",
+      "uuid": "08ea2a53-7d84-4bf8-b137-e68e4d239fea",
       "importer": "sprite-frame",
-      "rawTextureUuid": "953f4c68-4200-4454-9871-64df00e816e6",
+      "rawTextureUuid": "fa0ab2b7-e41c-423a-aed6-59e11eb021ef",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

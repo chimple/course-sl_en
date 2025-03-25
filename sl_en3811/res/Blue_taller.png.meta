@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "8f336dfa-864e-409c-8888-c05bf4ae8715",
+  "uuid": "784f54f6-67a5-4417-8fbf-c6b5a2e27dff",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Blue_taller": {
       "ver": "1.0.6",
-      "uuid": "7e2a748b-9bb1-4952-a4f3-b8c26be88b0f",
+      "uuid": "0bd15a72-a6f8-4fdd-9a0b-de9a3b1f7eb7",
       "importer": "sprite-frame",
-      "rawTextureUuid": "8f336dfa-864e-409c-8888-c05bf4ae8715",
+      "rawTextureUuid": "784f54f6-67a5-4417-8fbf-c6b5a2e27dff",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

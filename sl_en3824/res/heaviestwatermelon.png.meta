@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "dc1d5bd5-8029-4f37-9288-c34b071427be",
+  "uuid": "8d803e18-bebe-41cc-b2af-f0e1316e9dda",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "heaviestwatermelon": {
       "ver": "1.0.6",
-      "uuid": "48dd961b-20ee-4828-a427-833ff1841eb4",
+      "uuid": "14332cad-d4ee-4cbf-9ef7-916ea86ecc43",
       "importer": "sprite-frame",
-      "rawTextureUuid": "dc1d5bd5-8029-4f37-9288-c34b071427be",
+      "rawTextureUuid": "8d803e18-bebe-41cc-b2af-f0e1316e9dda",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

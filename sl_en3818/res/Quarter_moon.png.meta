@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "c835f2f3-15c0-439d-93aa-63693f728a64",
+  "uuid": "4e3c2b57-af73-4fdd-b28e-c03654c68803",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "Quarter_moon": {
       "ver": "1.0.6",
-      "uuid": "42bdcd07-19c9-4e2b-b6e2-9b25c1c7fc11",
+      "uuid": "fdc4b3bb-adb4-48cb-84d3-6f58b32f590c",
       "importer": "sprite-frame",
-      "rawTextureUuid": "c835f2f3-15c0-439d-93aa-63693f728a64",
+      "rawTextureUuid": "4e3c2b57-af73-4fdd-b28e-c03654c68803",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

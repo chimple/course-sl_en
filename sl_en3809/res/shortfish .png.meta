@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "5d5901e4-1dfd-42f9-a18b-09852dddbf6c",
+  "uuid": "c8cb6e0e-ff5c-4486-a3eb-916138f9d0d3",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "shortfish ": {
       "ver": "1.0.6",
-      "uuid": "ec3644e0-ec0b-499d-8833-8b62a210b17d",
+      "uuid": "a0e107c4-7248-4cf8-8f3c-484feee21cbc",
       "importer": "sprite-frame",
-      "rawTextureUuid": "5d5901e4-1dfd-42f9-a18b-09852dddbf6c",
+      "rawTextureUuid": "c8cb6e0e-ff5c-4486-a3eb-916138f9d0d3",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
